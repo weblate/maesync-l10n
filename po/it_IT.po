@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sync_ap_name"
+msgstr "Trasfer. e sincronizza"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Recupera"
+
+msgid "sync_bd_method_send"
+msgstr "Invia"
+
+msgid "sync_bd_method_sync"
+msgstr "Sincr."
+
+msgid "sync_bd_new"
+msgstr "Nuovo"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Seleziona dispositivo"
+
+msgid "sync_fi_calendar_used"
+msgstr "Calendario"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Contenuto"
+
+msgid "sync_fi_device"
+msgstr "Dispositivo"
+
+msgid "sync_fi_last_update"
+msgstr "Ultimo aggiornamento"
+
+msgid "sync_fi_method"
+msgstr "Metodo"
+
+msgid "sync_fi_note"
+msgstr "Nota"
+
+msgid "sync_fi_state_deleted"
+msgstr "Eliminato"
+
+msgid "sync_fi_state_edited"
+msgstr "Modificato"
+
+msgid "sync_fi_time_unknown"
+msgstr "(orario sconosciuto)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Recupera dati"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Invia dati"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Sincronizza dati"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Selezionare un calendario da sincronizzare con '%s'"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Informazioni modificate su entrambi i dispositivi. Scegliere quale versione "
+"mantenere. È selezionata la versione più recente."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"Si possono utilizzare più calendari. È possibile creare un nuovo calendario "
+"o utilizzarne uno già esistente."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Selezionare il calendario da inviare"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"È possibile modificare questa configurazione tramite Impostazioni: Trasfer. "
+"e sincronizza. Ignorare le impostazioni toccando il display all'esterno "
+"della procedura guidata."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Seleziona i dati da includere"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"La procedura consente di configurare un processo di trasferimento o "
+"sincronizzazione con altri dispositivi.\n"
+"\n"
+"NOTA: per la sincronizzazione con un PC, utilizzare PC Suite."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Trasferimento o sincronizzazione?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Selezionare Fine per salvare le impostazioni. Verrà creata una "
+"sincronizzazione e il trasferimento dati verrà avviato immediatamente."
+
+msgid "sync_ib_setting_failed"
+msgstr "Impossibile salvare le impostazioni"
+
+msgid "sync_ic_calendar_content"
+msgstr ""
+"Questa sincronizzazione include solo i contatti. Selezionare un calendario "
+"da aggiungere."
+
+msgid "sync_ic_calendar_content_send"
+msgstr ""
+"Questa sincronizzazione include solo i contatti. Selezionare il calendario "
+"da inviare."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Recupero non supportato. Sincronizzare i dati?\n"
+"\n"
+"Verranno inviati i dati da questo dispositivo."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Invio non supportato. Sincronizzare i dati?\n"
+"\n"
+"Verranno aggiunti i dati di un altro dispositivo."
+
+msgid "sync_nc_import_web"
+msgstr ""
+"Effettuare la sottoscrizione a '%s'? Verranno creati un nuovo calendario e "
+"una nuova sincronizzazione."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Eliminare la sincronizzazione '%s'?\n"
+"Nessun dato verrà eliminato. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Già esiste una sincronizzazione simile.\n"
+"Impossibile utilizzare la stessa configurazione due volte."
+
+msgid "sync_ti_calendar_select"
+msgstr "Trasfer. e sincronizza: Seleziona calendario"
+
+msgid "sync_ti_canceled"
+msgstr "Annullato"
+
+msgid "sync_ti_canceling"
+msgstr "Interruzione in corso"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Risoluzione conflitto"
+
+msgid "sync_ti_progress_1"
+msgstr "Avviato"
+
+msgid "sync_ti_progress_10"
+msgstr "Sincronizzazione di contatti in corso"
+
+msgid "sync_ti_progress_11"
+msgstr "Invio di voci del calendario in corso"
+
+msgid "sync_ti_progress_12"
+msgstr "Ricezione di voci del calendario in corso"
+
+msgid "sync_ti_progress_13"
+msgstr "Sincronizzazione di voci del calendario in corso"
+
+msgid "sync_ti_progress_14"
+msgstr "Invio di note in corso"
+
+msgid "sync_ti_progress_15"
+msgstr "Ricezione di note in corso"
+
+msgid "sync_ti_progress_16"
+msgstr "Sincronizzazione di note in corso"
+
+msgid "sync_ti_progress_17"
+msgstr "Finalizzazione in corso"
+
+msgid "sync_ti_progress_2"
+msgstr "Connessione in corso"
+
+msgid "sync_ti_progress_3"
+msgstr "Connesso"
+
+msgid "sync_ti_progress_4"
+msgstr "Inizializzazione in corso"
+
+msgid "sync_ti_progress_5"
+msgstr "Invio in corso"
+
+msgid "sync_ti_progress_6"
+msgstr "Ricezione in corso"
+
+msgid "sync_ti_progress_7"
+msgstr "Sincronizzazione in corso"
+
+msgid "sync_ti_progress_8"
+msgstr "Invio di contatti in corso"
+
+msgid "sync_ti_progress_9"
+msgstr "Ricezione di contatti in corso"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Conflitti"
+
+msgid "sync_ti_sync_error"
+msgstr "Errore"
+
+msgid "sync_ti_today"
+msgstr "Oggi"
+
+msgid "sync_ti_updating"
+msgstr "Aggiornamento"
+
+msgid "sync_ti_wizard"
+msgstr "Trasfer. e sincronizza"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Calendario"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Completo"
+
+msgid "sync_ti_wizard_content"
+msgstr "Contenuto"
+
+msgid "sync_ti_wizard_method"
+msgstr "Metodo"
+
+msgid "sync_va_alarm"
+msgstr "Conflitto allarme"
+
+msgid "sync_va_alarm2"
+msgstr "Allarme impostato"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Rubrica"
+
+msgid "sync_va_events_tasks"
+msgstr "Eventi e attività del calendario"
+
+msgid "sync_va_from"
+msgstr "Da"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Le impostazioni possono essere modificate tramite PC"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Aggiornamento %s in corso"
+
+msgid "sync_va_method_receive"
+msgstr "Recupera"
+
+msgid "sync_va_method_send"
+msgstr "Invia"
+
+msgid "sync_va_method_sync"
+msgstr "Sincr."
+
+msgid "sync_va_method_web"
+msgstr "Aggiorna"
+
+msgid "sync_va_newcalendar"
+msgstr "Crea un nuovo calendario"
+
+msgid "sync_va_no_conduits"
+msgstr "(nessuna sincronizzazione)"
+
+msgid "sync_va_noalarm"
+msgstr "Nessun allarme"
+
+msgid "sync_va_norepeats"
+msgstr "Nessuna ripetizione"
+
+msgid "sync_va_notes"
+msgstr "Note del calendario"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Conflitto causato da un elemento ripetuto"
+
+msgid "sync_va_repeated"
+msgstr "Ripetizione attiva"
+
+msgid "sync_va_to"
+msgstr "A"
+
+msgid "sync_va_use"
+msgstr "Usa il calendario '%s'"
+
+msgid "sync_va_web"
+msgstr "Web"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(nessun dispositivo selezionato)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Dispositivo già in uso per un'altra sincronizzazione"

@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sync_ap_name"
+msgstr "Übertragung & Sync."
+
+msgid "sync_bd_method_retrieve"
+msgstr "Abrufen"
+
+msgid "sync_bd_method_send"
+msgstr "Senden"
+
+msgid "sync_bd_method_sync"
+msgstr "Synchron."
+
+msgid "sync_bd_new"
+msgstr "Neu"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Gerät auswählen"
+
+msgid "sync_fi_calendar_used"
+msgstr "Kalender"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Inhalt"
+
+msgid "sync_fi_device"
+msgstr "Gerät"
+
+msgid "sync_fi_last_update"
+msgstr "Letztes Update"
+
+msgid "sync_fi_method"
+msgstr "Methode"
+
+msgid "sync_fi_note"
+msgstr "Notiz"
+
+msgid "sync_fi_state_deleted"
+msgstr "Gelöscht"
+
+msgid "sync_fi_state_edited"
+msgstr "Bearbeitet"
+
+msgid "sync_fi_time_unknown"
+msgstr "(Zeit unbekannt)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Daten abrufen"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Daten senden"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Daten synchronisieren"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Kalender für Kalenderdaten '%s' auswählen"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Daten auf beiden Geräten bearbeitet. Auswählen, welche Version erhalten "
+"werden soll. Neueste Version ausgewählt."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"Gerät unterstützt verschiedene Kalender. Es ist möglich, einen neuen "
+"Kalender zu erstellen oder einen vorhandenen Kalender zu verwenden."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Zu sendenden Kalender wählen"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"Sie können diese Einstellungen über 'Einstellungen' -> 'Übertragung & "
+"Synchronisierung' ändern. Zum Verwerfen neben den Assistenten tippen."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Aufzunehmende Daten auswählen"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Mit diesem Assistenten können Sie einen Übertragungs- oder "
+"Synchronisationsprozess mit anderen Geräten einrichten.\n"
+"\n"
+"HINWEIS: Für PC Suite-Synchronisierung PC verwenden."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Übertragen oder synchronisieren?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Mit 'Fertig stellen' Einstellungen speichern. Conduit wird erstellt, "
+"Datenübertragung wird sofort gestartet."
+
+msgid "sync_ib_setting_failed"
+msgstr "Einstellungen können nicht gespeichert werden"
+
+msgid "sync_ic_calendar_content"
+msgstr "Conduit enthält nur Kontakte. Kalender zum Hinzufügen auswählen."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Conduit enthält nur Kontakte. Kalender zum Senden auswählen."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Abrufen wird nicht unterstützt. Daten stattdessen synchronisieren?\n"
+"\n"
+"Daten von anderem Gerät werden gesendet."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Senden wird nicht unterstützt. Daten stattdessen synchronisieren?\n"
+"\n"
+"Daten von anderem Gerät werden hinzugefügt."
+
+msgid "sync_nc_import_web"
+msgstr ""
+"'%s' abonnieren? Es werden ein neuer Kalender und ein neuer Conduit erstellt."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Conduit '%s' löschen?\n"
+"Es werden keine Daten gelöscht. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Ähnlicher Conduit existiert bereits.\n"
+"Verwendung derselben Konfiguration für dasselbe Gerät nicht möglich."
+
+msgid "sync_ti_calendar_select"
+msgstr "Übertragung & Synchronisierung: Kalender auswählen"
+
+msgid "sync_ti_canceled"
+msgstr "Abgebrochen"
+
+msgid "sync_ti_canceling"
+msgstr "Wird gestoppt"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Konfliktlösung"
+
+msgid "sync_ti_progress_1"
+msgstr "Gestartet"
+
+msgid "sync_ti_progress_10"
+msgstr "Kontakte werden synchronisiert"
+
+msgid "sync_ti_progress_11"
+msgstr "Kalendereinträge werden gesendet"
+
+msgid "sync_ti_progress_12"
+msgstr "Kalendereinträge werden empfangen"
+
+msgid "sync_ti_progress_13"
+msgstr "Kalendereinträge werden synchronisiert"
+
+msgid "sync_ti_progress_14"
+msgstr "Notizen werden gesendet"
+
+msgid "sync_ti_progress_15"
+msgstr "Notizen werden empfangen"
+
+msgid "sync_ti_progress_16"
+msgstr "Notizen werden synchronisiert"
+
+msgid "sync_ti_progress_17"
+msgstr "Wird abgeschlossen"
+
+msgid "sync_ti_progress_2"
+msgstr "Verbindung wird aufgebaut"
+
+msgid "sync_ti_progress_3"
+msgstr "Verbunden"
+
+msgid "sync_ti_progress_4"
+msgstr "Initialisierung läuft"
+
+msgid "sync_ti_progress_5"
+msgstr "Senden"
+
+msgid "sync_ti_progress_6"
+msgstr "Empfang"
+
+msgid "sync_ti_progress_7"
+msgstr "Synchronisierung wird ausgeführt"
+
+msgid "sync_ti_progress_8"
+msgstr "Kontakte werden gesendet"
+
+msgid "sync_ti_progress_9"
+msgstr "Kontakte werden empfangen"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Konflikte"
+
+msgid "sync_ti_sync_error"
+msgstr "Fehler"
+
+msgid "sync_ti_today"
+msgstr "Heute"
+
+msgid "sync_ti_updating"
+msgstr "Aktualisieren"
+
+msgid "sync_ti_wizard"
+msgstr "Übertragung & Synchronisierung"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Kalender"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Abgeschlossen"
+
+msgid "sync_ti_wizard_content"
+msgstr "Inhalt"
+
+msgid "sync_ti_wizard_method"
+msgstr "Methode"
+
+msgid "sync_va_alarm"
+msgstr "Weckerkonflikt"
+
+msgid "sync_va_alarm2"
+msgstr "Wecker gestellt"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Kontakte"
+
+msgid "sync_va_events_tasks"
+msgstr "Kalenderereignisse und -aufgaben"
+
+msgid "sync_va_from"
+msgstr "Von"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Einstellungen können über den Computer bearbeitet werden"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "%s wird aktualisiert"
+
+msgid "sync_va_method_receive"
+msgstr "Abrufen"
+
+msgid "sync_va_method_send"
+msgstr "Senden"
+
+msgid "sync_va_method_sync"
+msgstr "Synchron."
+
+msgid "sync_va_method_web"
+msgstr "Aktualisieren"
+
+msgid "sync_va_newcalendar"
+msgstr "Neuen Kalender erstellen"
+
+msgid "sync_va_no_conduits"
+msgstr "(Keine Kanäle)"
+
+msgid "sync_va_noalarm"
+msgstr "Wecker nicht gestellt"
+
+msgid "sync_va_norepeats"
+msgstr "Nicht wiederholt"
+
+msgid "sync_va_notes"
+msgstr "Kalendernotizen"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Wiederholungskonflikt"
+
+msgid "sync_va_repeated"
+msgstr "Wiederholt"
+
+msgid "sync_va_to"
+msgstr "bis"
+
+msgid "sync_va_use"
+msgstr "'%s' Kalender verwenden"
+
+msgid "sync_va_web"
+msgstr "Internet"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(kein Gerät ausgewählt)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Gerät wird bereits von anderem Conduit verwendet"

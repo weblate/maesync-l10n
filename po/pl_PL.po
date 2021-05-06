@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "sync_ap_name"
+msgstr "Transfer i synchr."
+
+msgid "sync_bd_method_retrieve"
+msgstr "Pobierz"
+
+msgid "sync_bd_method_send"
+msgstr "Wyślij"
+
+msgid "sync_bd_method_sync"
+msgstr "Synchronizuj"
+
+msgid "sync_bd_new"
+msgstr "Nowy"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Wybierz urządzenie"
+
+msgid "sync_fi_calendar_used"
+msgstr "Kalendarz"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Zawartość"
+
+msgid "sync_fi_device"
+msgstr "Urządzenie"
+
+msgid "sync_fi_last_update"
+msgstr "Ostatnia aktualizacja"
+
+msgid "sync_fi_method"
+msgstr "Metoda"
+
+msgid "sync_fi_note"
+msgstr "Notatka"
+
+msgid "sync_fi_state_deleted"
+msgstr "Usunięte"
+
+msgid "sync_fi_state_edited"
+msgstr "Edytowane"
+
+msgid "sync_fi_time_unknown"
+msgstr "(godzina nieznana)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Pobierz dane"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Wyślij dane"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Synchronizuj dane"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Wybierz kalendarz dla danych kalendarza %s"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Edytowano dane w obu urządzeniach. Wybierz wersję do zapisu. Wybrano "
+"najnowszą wersję danych."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"Urządzenie obsługuje wiele kalendarzy. Utwórz nowy kalendarz lub użyj "
+"istniejącego."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Wybierz kalendarz do wysłania"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"Aby edytować konfigurację, wybierz Ustawienia: Transfer i synchr. Odrzuć "
+"ustawienia, dotykając ekranu poza oknem kreatora."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Wybierz żądaną zawartość"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Ten kreator umożliwia wybór ustawień synchronizacji lub przesyłu danych do "
+"innych urządzeń.\n"
+"\n"
+"UWAGA: Do synchronizacji za pomocą PC Suite użyj komputera."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Transfer czy synchronizacja?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Dotknij opcji Zakończ, aby zapisać ustawienia. Po utworzeniu kanału "
+"rozpocznie się przesył danych."
+
+msgid "sync_ib_setting_failed"
+msgstr "Nie można zapisać ustawień"
+
+msgid "sync_ic_calendar_content"
+msgstr "Ten kanał zawiera tylko kontakty. Wybierz kalendarz do dodania."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Ten kanał zawiera tylko kontakty. Wybierz kalendarz do wysłania."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Pobieranie nieobsługiwane. Synchronizować dane?\n"
+"\n"
+"Nastąpi wysłanie danych z tego urządzenia."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Wysyłanie nieobsługiwane. Synchronizować dane?\n"
+"\n"
+"Nastąpi dodanie danych z innego urządzenia."
+
+msgid "sync_nc_import_web"
+msgstr "Subskrybować %s? Zostanie utworzony nowy kalendarz i kanał."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Usunąć kanał %s?\n"
+"Nie zostaną usunięte żadne dane. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Podobny kanał już istnieje.\n"
+"Nie można ponownie użyć takiej samej konfiguracji."
+
+msgid "sync_ti_calendar_select"
+msgstr "Transfer i synchr.: Wybierz kalendarz"
+
+msgid "sync_ti_canceled"
+msgstr "Anulowano"
+
+msgid "sync_ti_canceling"
+msgstr "Zatrzymywanie"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Rozwiązanie konfliktu"
+
+msgid "sync_ti_progress_1"
+msgstr "Rozpoczęto"
+
+msgid "sync_ti_progress_10"
+msgstr "Synchronizacja kontaktów"
+
+msgid "sync_ti_progress_11"
+msgstr "Wysyłanie wpisów kalendarza"
+
+msgid "sync_ti_progress_12"
+msgstr "Odbieranie wpisów kalendarza"
+
+msgid "sync_ti_progress_13"
+msgstr "Synchronizacja wpisów kalendarza"
+
+msgid "sync_ti_progress_14"
+msgstr "Wysłanie notatek"
+
+msgid "sync_ti_progress_15"
+msgstr "Odbieranie notatek"
+
+msgid "sync_ti_progress_16"
+msgstr "Synchronizacja notatek"
+
+msgid "sync_ti_progress_17"
+msgstr "Finalizowanie"
+
+msgid "sync_ti_progress_2"
+msgstr "Łączenie"
+
+msgid "sync_ti_progress_3"
+msgstr "Połączono"
+
+msgid "sync_ti_progress_4"
+msgstr "Inicjalizacja"
+
+msgid "sync_ti_progress_5"
+msgstr "Wysyłanie"
+
+msgid "sync_ti_progress_6"
+msgstr "Odbieranie"
+
+msgid "sync_ti_progress_7"
+msgstr "Trwa synchronizacja"
+
+msgid "sync_ti_progress_8"
+msgstr "Wysyłanie kontaktów"
+
+msgid "sync_ti_progress_9"
+msgstr "Odbieranie kontaktów"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Konflikty"
+
+msgid "sync_ti_sync_error"
+msgstr "Błąd"
+
+msgid "sync_ti_today"
+msgstr "Dzisiaj"
+
+msgid "sync_ti_updating"
+msgstr "Aktualizacja"
+
+msgid "sync_ti_wizard"
+msgstr "Transfer i synchr."
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Kalendarz"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Zakończ"
+
+msgid "sync_ti_wizard_content"
+msgstr "Zawartość"
+
+msgid "sync_ti_wizard_method"
+msgstr "Metoda"
+
+msgid "sync_va_alarm"
+msgstr "Konflikt alarmu"
+
+msgid "sync_va_alarm2"
+msgstr "Ustawiono alarm"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Kontakty"
+
+msgid "sync_va_events_tasks"
+msgstr "Zdarzenia kalendarza i zadania"
+
+msgid "sync_va_from"
+msgstr "Od"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Ustawienia można edytować w komputerze"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Aktualizacja %s"
+
+msgid "sync_va_method_receive"
+msgstr "Pobierz"
+
+msgid "sync_va_method_send"
+msgstr "Wyślij"
+
+msgid "sync_va_method_sync"
+msgstr "Synchronizacja"
+
+msgid "sync_va_method_web"
+msgstr "Aktualizuj"
+
+msgid "sync_va_newcalendar"
+msgstr "Utwórz nowy kalendarz"
+
+msgid "sync_va_no_conduits"
+msgstr "(brak kanałów)"
+
+msgid "sync_va_noalarm"
+msgstr "Brak alarmu"
+
+msgid "sync_va_norepeats"
+msgstr "Brak powtarzania"
+
+msgid "sync_va_notes"
+msgstr "Notatki kalendarza"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Konflikt powtarzania"
+
+msgid "sync_va_repeated"
+msgstr "Powtarzanie"
+
+msgid "sync_va_to"
+msgstr "Do"
+
+msgid "sync_va_use"
+msgstr "Użyj kalendarza %s"
+
+msgid "sync_va_web"
+msgstr "Internet"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(nie wybrano urządzenia)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Te ustawienia są już stosowane przez inny kanał"

@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sync_ap_name"
+msgstr "Transfer. e sincronização"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Obter"
+
+msgid "sync_bd_method_send"
+msgstr "Enviar"
+
+msgid "sync_bd_method_sync"
+msgstr "Sinc"
+
+msgid "sync_bd_new"
+msgstr "Nova"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Seleccionar dispositivo"
+
+msgid "sync_fi_calendar_used"
+msgstr "Agenda"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Conteúdo"
+
+msgid "sync_fi_device"
+msgstr "Dispositivo"
+
+msgid "sync_fi_last_update"
+msgstr "Última actualização"
+
+msgid "sync_fi_method"
+msgstr "Método"
+
+msgid "sync_fi_note"
+msgstr "Nota"
+
+msgid "sync_fi_state_deleted"
+msgstr "Eliminado"
+
+msgid "sync_fi_state_edited"
+msgstr "Editado"
+
+msgid "sync_fi_time_unknown"
+msgstr "(hora desconhecida)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Obter dados"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Enviar dados"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Sincronizar dados"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Seleccionar agenda para dados da agenda '%s'"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Informação editada nos dois dispositivos. Seleccione a versão que deseja "
+"manter. Seleccionada versão mais recente."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"O dispositivo suporta várias agendas. É possível criar uma nova agenda ou "
+"utilizar uma já existente."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Seleccione uma agenda para enviar"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"Pode editar esta configuração através de 'Definições: Transferência e "
+"sincronização'. Rejeite estas definições tocando fora do assistente."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Seleccionar os dados para incluir"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Este assistente permite-lhe configurar uma transferência ou processo de "
+"sincronização com outros dispositivos.\n"
+"\n"
+"NOTA: Utilizar PC para sincronização com o PC Suite."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Transferir ou sincronizar?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Toque em 'Terminar' para guardar as definições. Será criado um canal e a "
+"transferência de dados será iniciada imediatamente."
+
+msgid "sync_ib_setting_failed"
+msgstr "Não foi possível guardar as definições"
+
+msgid "sync_ic_calendar_content"
+msgstr "Este canal só inclui contactos. Seleccione uma agenda para adicionar."
+
+msgid "sync_ic_calendar_content_send"
+msgstr ""
+"Este canal apenas inclui contactos. Seleccione um calendário para enviar."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Obter não suportado. Sincronizar dados?\n"
+"\n"
+"Os dados deste dispositivo serão enviados."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Envio não suportado. Sincronizar dados?\n"
+"\n"
+"Os dados do outro dispositivo serão adicionados."
+
+msgid "sync_nc_import_web"
+msgstr ""
+"Subscrever para '%s'? Será criada uma nova agenda e um novo canal de "
+"sincronização."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Eliminar canal '%s'?\n"
+"Nenhum dado será eliminado. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Já existe um canal semelhante.\n"
+"Não é possível utilizar a mesma configuração duas vezes."
+
+msgid "sync_ti_calendar_select"
+msgstr "Transferência e sincronização: seleccionar calendário"
+
+msgid "sync_ti_canceled"
+msgstr "Cancelado"
+
+msgid "sync_ti_canceling"
+msgstr "A parar"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Resolução de conflitos"
+
+msgid "sync_ti_progress_1"
+msgstr "Iniciado"
+
+msgid "sync_ti_progress_10"
+msgstr "A sincronizar contactos"
+
+msgid "sync_ti_progress_11"
+msgstr "A enviar entradas de agenda"
+
+msgid "sync_ti_progress_12"
+msgstr "A receber entradas de agenda"
+
+msgid "sync_ti_progress_13"
+msgstr "A sincronizar entradas de agenda"
+
+msgid "sync_ti_progress_14"
+msgstr "A enviar notas"
+
+msgid "sync_ti_progress_15"
+msgstr "A receber notas"
+
+msgid "sync_ti_progress_16"
+msgstr "A sincronizar notas"
+
+msgid "sync_ti_progress_17"
+msgstr "A finalizar"
+
+msgid "sync_ti_progress_2"
+msgstr "A ligar"
+
+msgid "sync_ti_progress_3"
+msgstr "Ligado"
+
+msgid "sync_ti_progress_4"
+msgstr "A inicializar"
+
+msgid "sync_ti_progress_5"
+msgstr "A enviar"
+
+msgid "sync_ti_progress_6"
+msgstr "A receber"
+
+msgid "sync_ti_progress_7"
+msgstr "A sincronizar"
+
+msgid "sync_ti_progress_8"
+msgstr "A enviar contactos"
+
+msgid "sync_ti_progress_9"
+msgstr "A receber contactos"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Em conflito"
+
+msgid "sync_ti_sync_error"
+msgstr "Falha"
+
+msgid "sync_ti_today"
+msgstr "Hoje"
+
+msgid "sync_ti_updating"
+msgstr "A actualizar"
+
+msgid "sync_ti_wizard"
+msgstr "Transfer. e sincronização"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Agenda"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Concluído"
+
+msgid "sync_ti_wizard_content"
+msgstr "Conteúdo"
+
+msgid "sync_ti_wizard_method"
+msgstr "Método"
+
+msgid "sync_va_alarm"
+msgstr "Conflito de alarmes"
+
+msgid "sync_va_alarm2"
+msgstr "Alarme definido"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Contactos"
+
+msgid "sync_va_events_tasks"
+msgstr "Compromissos e tarefas da agenda"
+
+msgid "sync_va_from"
+msgstr "De"
+
+msgid "sync_va_info_pcsuite"
+msgstr "As definições podem ser editadas pelo computador"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "A actualizar %s"
+
+msgid "sync_va_method_receive"
+msgstr "Obter"
+
+msgid "sync_va_method_send"
+msgstr "Enviar"
+
+msgid "sync_va_method_sync"
+msgstr "Sinc"
+
+msgid "sync_va_method_web"
+msgstr "Actualizar"
+
+msgid "sync_va_newcalendar"
+msgstr "Criar nova agenda"
+
+msgid "sync_va_no_conduits"
+msgstr "(sem canais)"
+
+msgid "sync_va_noalarm"
+msgstr "Sem alarme"
+
+msgid "sync_va_norepeats"
+msgstr "Não repetido"
+
+msgid "sync_va_notes"
+msgstr "Notas da agenda"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Conflito de repetição"
+
+msgid "sync_va_repeated"
+msgstr "Repetido"
+
+msgid "sync_va_to"
+msgstr "A"
+
+msgid "sync_va_use"
+msgstr "Utilizar agenda ‘%s’"
+
+msgid "sync_va_web"
+msgstr "Web"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(nenhum dispositivo seleccionado)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Este dispositivo já está a ser utilizado por outro canal"

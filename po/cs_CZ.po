@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "sync_ap_name"
+msgstr "Přenos a synchronizace"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Načíst"
+
+msgid "sync_bd_method_send"
+msgstr "Odeslat"
+
+msgid "sync_bd_method_sync"
+msgstr "Synchronizace"
+
+msgid "sync_bd_new"
+msgstr "Nové"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Vybrat zařízení"
+
+msgid "sync_fi_calendar_used"
+msgstr "Kalendář"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Obsah"
+
+msgid "sync_fi_device"
+msgstr "Zařízení"
+
+msgid "sync_fi_last_update"
+msgstr "Poslední aktualizace"
+
+msgid "sync_fi_method"
+msgstr "Metoda"
+
+msgid "sync_fi_note"
+msgstr "Poznámka"
+
+msgid "sync_fi_state_deleted"
+msgstr "Odstraněno"
+
+msgid "sync_fi_state_edited"
+msgstr "Upraveno"
+
+msgid "sync_fi_time_unknown"
+msgstr "(čas neznámý)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Načíst data"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Odeslat data"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Synchronizovat data"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Vyberte kalendář pro „%s“ data kalendáře"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Informace upraveny v obou zařízeních. Zvolte verzi pro uložení. Zvolena "
+"nejnovější verze."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"Zařízení podporuje více kalendářů. Můžete vytvořit nový kalendář nebo použít "
+"stávající."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Vyberte kalendář pro odeslání"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"Tuto konfiguraci lze upravit prostřednictvím možnosti „Nastavení: Přenos a "
+"synchronizace“. Nastavení opustíte klepnutím mimo průvodce."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Vyberte data pro přenos"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Průvodce vám umožní spustit proces přenosu nebo synchronizace s jiným "
+"zařízením.\n"
+"\n"
+"POZNÁMKA: Pro synchronizaci sady PC Suite použijte počítač."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Přenést nebo synchronizovat?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Klepnutím na možnost „Dokončit“ uložíte nastavení. Vytvoří se spojení a bude "
+"zahájen přenos dat."
+
+msgid "sync_ib_setting_failed"
+msgstr "Nelze uložit nastavení"
+
+msgid "sync_ic_calendar_content"
+msgstr ""
+"Toto spojení obsahuje pouze kontakty. Vyberte kalendář, který k němu chcete "
+"přidat."
+
+msgid "sync_ic_calendar_content_send"
+msgstr ""
+"Toto spojení obsahuje pouze kontakty. Vyberte kalendář, který chcete odeslat."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Načítání není podporováno. Synchronizovat data?\n"
+"\n"
+"Data z tohoto zařízení budou odeslána."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Odesílání není podporováno. Synchronizovat data?\n"
+"\n"
+"Budou přidána data z jiného zařízení."
+
+msgid "sync_nc_import_web"
+msgstr "Přihlásit se k „%s“? Bude vytvořen nový kalendář a nové spojení."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Odstranit spojení „%s“?\n"
+" Žádná data nebudou odstraněna. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Podobné spojení již existuje.\n"
+"Nelze použít stejnou konfiguraci dvakrát."
+
+msgid "sync_ti_calendar_select"
+msgstr "Přenos a synchronizace: Vyberte kalendář"
+
+msgid "sync_ti_canceled"
+msgstr "Zrušena"
+
+msgid "sync_ti_canceling"
+msgstr "Zastavování"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Rozhodnutí konfliktu"
+
+msgid "sync_ti_progress_1"
+msgstr "Zahajování"
+
+msgid "sync_ti_progress_10"
+msgstr "Synchronizace kontaktů"
+
+msgid "sync_ti_progress_11"
+msgstr "Odesílání položek kalendáře"
+
+msgid "sync_ti_progress_12"
+msgstr "Přijímání položek kalendáře"
+
+msgid "sync_ti_progress_13"
+msgstr "Synchronizace položek kalendáře"
+
+msgid "sync_ti_progress_14"
+msgstr "Odesílání poznámek"
+
+msgid "sync_ti_progress_15"
+msgstr "Přijímání poznámek"
+
+msgid "sync_ti_progress_16"
+msgstr "Synchronizace poznámek"
+
+msgid "sync_ti_progress_17"
+msgstr "Dokončování"
+
+msgid "sync_ti_progress_2"
+msgstr "Připojování"
+
+msgid "sync_ti_progress_3"
+msgstr "Připojeno"
+
+msgid "sync_ti_progress_4"
+msgstr "Inicializace"
+
+msgid "sync_ti_progress_5"
+msgstr "Odesílání"
+
+msgid "sync_ti_progress_6"
+msgstr "Přijímání"
+
+msgid "sync_ti_progress_7"
+msgstr "Synchronizace"
+
+msgid "sync_ti_progress_8"
+msgstr "Odesílání kontaktů"
+
+msgid "sync_ti_progress_9"
+msgstr "Přijímání kontaktů"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Konflikty"
+
+msgid "sync_ti_sync_error"
+msgstr "Neúspěšná"
+
+msgid "sync_ti_today"
+msgstr "Dnes"
+
+msgid "sync_ti_updating"
+msgstr "Aktualizace"
+
+msgid "sync_ti_wizard"
+msgstr "Přenos a synchronizace"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Kalendář"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Dokončit"
+
+msgid "sync_ti_wizard_content"
+msgstr "Obsah"
+
+msgid "sync_ti_wizard_method"
+msgstr "Metoda"
+
+msgid "sync_va_alarm"
+msgstr "Konflikt budíku"
+
+msgid "sync_va_alarm2"
+msgstr "Budík nastaven"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Kontakty"
+
+msgid "sync_va_events_tasks"
+msgstr "Úkoly a události kalendáře"
+
+msgid "sync_va_from"
+msgstr "Od"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Nastavení lze upravit pomocí počítače"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Aktualizace %s"
+
+msgid "sync_va_method_receive"
+msgstr "Načíst"
+
+msgid "sync_va_method_send"
+msgstr "Odeslat"
+
+msgid "sync_va_method_sync"
+msgstr "Synchronizace"
+
+msgid "sync_va_method_web"
+msgstr "Aktualizovat"
+
+msgid "sync_va_newcalendar"
+msgstr "Vytvořit nový kalendář"
+
+msgid "sync_va_no_conduits"
+msgstr "(žádná spojení)"
+
+msgid "sync_va_noalarm"
+msgstr "Budík nenastaven"
+
+msgid "sync_va_norepeats"
+msgstr "Neopakováno"
+
+msgid "sync_va_notes"
+msgstr "Poznámky kalendáře"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Konflikt opakování"
+
+msgid "sync_va_repeated"
+msgstr "Opakováno"
+
+msgid "sync_va_to"
+msgstr "Do"
+
+msgid "sync_va_use"
+msgstr "Použít kalendář „%s“"
+
+msgid "sync_va_web"
+msgstr "Web"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(není vybráno žádné zařízení)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Toto nastavení je již používáno jiným spojením"

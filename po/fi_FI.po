@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sync_ap_name"
+msgstr "Siirto ja synkronointi"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Hae"
+
+msgid "sync_bd_method_send"
+msgstr "Lähetä"
+
+msgid "sync_bd_method_sync"
+msgstr "Synkronoi"
+
+msgid "sync_bd_new"
+msgstr "Uusi"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Valitse laite"
+
+msgid "sync_fi_calendar_used"
+msgstr "Kalenteri"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Sisältö"
+
+msgid "sync_fi_device"
+msgstr "Laite"
+
+msgid "sync_fi_last_update"
+msgstr "Viimeksi päivitetty"
+
+msgid "sync_fi_method"
+msgstr "Tapa"
+
+msgid "sync_fi_note"
+msgstr "Muistiinpano"
+
+msgid "sync_fi_state_deleted"
+msgstr "Poistettu"
+
+msgid "sync_fi_state_edited"
+msgstr "Muokattu"
+
+msgid "sync_fi_time_unknown"
+msgstr "(aika tuntematon)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Hae tiedot"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Lähetä tiedot"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Synkronoi tiedot"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Valitse kalenteri laitteen %s kalenteritiedoille"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Molemmissa laitteissa on muokattuja tietoja. Valitse säilytettävä versio. "
+"Valittu uusin versio."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"Laite tukee useita kalentereita. Voit luoda uuden kalenterin tai käyttää "
+"olemassa olevaa kalenteria."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Valitse lähetettävä kalenteri"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"Voit muokata määrityksiä siirron ja synkronoinnin asetuksista. Hylkää "
+"asetukset napauttamalla näyttöä ohjatun toiminnon ulkopuolella."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Valitse sisällytettävät tiedot"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Tällä ohjatulla toiminnolla voit määrittää siirron tai synkronoinnin muiden "
+"laitteiden kanssa.\n"
+"\n"
+"HUOMAUTUS: PC Suite -synkronointi tehdään tietokoneessa."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Siirretäänkö vai synkronoidaanko?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Tallenna asetukset valitsemalla Valmis. Kanava luodaan ja tietojen siirto "
+"alkaa heti."
+
+msgid "sync_ib_setting_failed"
+msgstr "Asetuksia ei voi tallentaa"
+
+msgid "sync_ic_calendar_content"
+msgstr ""
+"Tässä kanavassa on vain yhteistietoja. Valitse siihen lisättävä kalenteri."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Tässä kanavassa on vain yhteystietoja. Valitse lähetettävä kalenteri."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Hakemista ei tueta. Synkronoi tiedot sen sijaan?\n"
+"\n"
+"Laitteen tiedot lähetetään."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Lähettämistä ei tueta. Synkronoidaanko tiedot sen sijaan?\n"
+"\n"
+"Toisen laitteen tiedot lisätään."
+
+msgid "sync_nc_import_web"
+msgstr "Tilataanko %s? Uusi kalenteri ja kanava luodaan."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Poistetaanko kanava %s?\n"
+"Tietoja ei poisteta. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Samanlainen kanava on jo olemassa.\n"
+"Samoja määrityksiä ei voi käyttää kahdesti."
+
+msgid "sync_ti_calendar_select"
+msgstr "Siirto ja synkronointi: Valitse kalenteri"
+
+msgid "sync_ti_canceled"
+msgstr "Peruutettu"
+
+msgid "sync_ti_canceling"
+msgstr "Lopetetaan"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Ristiriidan ratkaisu"
+
+msgid "sync_ti_progress_1"
+msgstr "Aloitettu"
+
+msgid "sync_ti_progress_10"
+msgstr "Synkronoidaan yhteystietoja"
+
+msgid "sync_ti_progress_11"
+msgstr "Lähetetään kalenteritietoja"
+
+msgid "sync_ti_progress_12"
+msgstr "Vastaanotetaan kalenteritietoja"
+
+msgid "sync_ti_progress_13"
+msgstr "Synkronoidaan kalenteritietoja"
+
+msgid "sync_ti_progress_14"
+msgstr "Lähetetään muistiinpanoja"
+
+msgid "sync_ti_progress_15"
+msgstr "Vastaanotetaan muistiinpanoja"
+
+msgid "sync_ti_progress_16"
+msgstr "Synkronoidaan muistiinpanoja"
+
+msgid "sync_ti_progress_17"
+msgstr "Viimeistellään"
+
+msgid "sync_ti_progress_2"
+msgstr "Yhdistetään"
+
+msgid "sync_ti_progress_3"
+msgstr "Yhdistetty"
+
+msgid "sync_ti_progress_4"
+msgstr "Alustetaan"
+
+msgid "sync_ti_progress_5"
+msgstr "Lähetetään"
+
+msgid "sync_ti_progress_6"
+msgstr "Vastaanotetaan"
+
+msgid "sync_ti_progress_7"
+msgstr "Synkronoidaan"
+
+msgid "sync_ti_progress_8"
+msgstr "Lähetetään yhteystietoja"
+
+msgid "sync_ti_progress_9"
+msgstr "Vastaanotetaan yhteystietoja"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Ristiriidat"
+
+msgid "sync_ti_sync_error"
+msgstr "Epäonnistui"
+
+msgid "sync_ti_today"
+msgstr "Tänään"
+
+msgid "sync_ti_updating"
+msgstr "Päivitetään"
+
+msgid "sync_ti_wizard"
+msgstr "Siirto ja synkronointi"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Kalenteri"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Valmis"
+
+msgid "sync_ti_wizard_content"
+msgstr "Sisältö"
+
+msgid "sync_ti_wizard_method"
+msgstr "Tapa"
+
+msgid "sync_va_alarm"
+msgstr "Hälytysristiriita"
+
+msgid "sync_va_alarm2"
+msgstr "Hälytys määritetty"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Yhteystiedot"
+
+msgid "sync_va_events_tasks"
+msgstr "Kalenterin tapahtumat ja tehtävät"
+
+msgid "sync_va_from"
+msgstr "Alkaa:"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Asetuksia voi muokata tietokoneessa"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Päivitetään %s"
+
+msgid "sync_va_method_receive"
+msgstr "Hae"
+
+msgid "sync_va_method_send"
+msgstr "Lähetä"
+
+msgid "sync_va_method_sync"
+msgstr "Synkronoi"
+
+msgid "sync_va_method_web"
+msgstr "Päivitä"
+
+msgid "sync_va_newcalendar"
+msgstr "Luo uusi kalenteri"
+
+msgid "sync_va_no_conduits"
+msgstr "(ei kanavia)"
+
+msgid "sync_va_noalarm"
+msgstr "Ei hälytystä"
+
+msgid "sync_va_norepeats"
+msgstr "Ei toistettu"
+
+msgid "sync_va_notes"
+msgstr "Kalenterin muistiinpanot"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Toistoristiriita"
+
+msgid "sync_va_repeated"
+msgstr "Toistettu"
+
+msgid "sync_va_to"
+msgstr "Päättyy:"
+
+msgid "sync_va_use"
+msgstr "Käytä kalenteria %s"
+
+msgid "sync_va_web"
+msgstr "Web"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(laitetta ei ole valittu)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Laitetta käytetään jo toisella kanavalla"

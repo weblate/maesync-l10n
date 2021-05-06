@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sync_ap_name"
+msgstr "Overfør og synkroniser"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Hent"
+
+msgid "sync_bd_method_send"
+msgstr "Send"
+
+msgid "sync_bd_method_sync"
+msgstr "Synkroniser"
+
+msgid "sync_bd_new"
+msgstr "Ny"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Vælg enhed"
+
+msgid "sync_fi_calendar_used"
+msgstr "Kalender"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Indhold"
+
+msgid "sync_fi_device"
+msgstr "Enhed"
+
+msgid "sync_fi_last_update"
+msgstr "Sidste opdatering"
+
+msgid "sync_fi_method"
+msgstr "Metode"
+
+msgid "sync_fi_note"
+msgstr "Note"
+
+msgid "sync_fi_state_deleted"
+msgstr "Slettet"
+
+msgid "sync_fi_state_edited"
+msgstr "Redigeret"
+
+msgid "sync_fi_time_unknown"
+msgstr "(klokkeslæt ukendt)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Hent data"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Send data"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Synkroniser data"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Vælg kalender for '%s' kalenderdata"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Redigerede oplysninger på begge enheder. Vælg, hvilken version du vil "
+"beholde. Nyeste version valgt."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"Enheden understøtter flere kalendere. Du kan oprette en ny eller bruge en "
+"eksisterende kalender."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Vælg den kalender, der skal sendes"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"Du kan redigere denne konfiguration via Indstillinger: Overfør og "
+"synkroniser. Annuller indstillinger ved at trykke uden for guiden."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Vælg data, der skal medtages"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Denne guide gør det muligt at konfigurere en overførsels- eller "
+"synkroniseringsproces med andre enheder.\n"
+"\n"
+"BEMÆRK: Brug en pc til PC Suite-synkronisering."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Overfør eller synkroniser?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Tryk på Afslut for at gemme indstillingerne. Der oprettes en kanal, og "
+"overførsel af data starter med det samme."
+
+msgid "sync_ib_setting_failed"
+msgstr "Kan ikke gemme indstillinger"
+
+msgid "sync_ic_calendar_content"
+msgstr ""
+"Denne kanal inkluderer kun kontakter. Vælg en kalender, der skal tilføjes."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Denne kanal inkluderer kun kontakter. Vælg kalender for at sende."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Hentning ikke understøttet. Synkroniser data i stedet?\n"
+"\n"
+"Der sendes data fra denne enhed."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Afsendelse ikke understøttet. Synkroniser data i stedet?\n"
+"\n"
+"Der tilføjes data fra en anden enhed."
+
+msgid "sync_nc_import_web"
+msgstr "Abonner på '%s'? Ny kalender og kanal oprettes."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Slet kanalen '%s'?\n"
+"Der slettes ingen data. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"En lignende kanal findes allerede.\n"
+"Kan ikke bruge samme konfiguration to gange."
+
+msgid "sync_ti_calendar_select"
+msgstr "Overfør og synkroniser: Vælg kalender"
+
+msgid "sync_ti_canceled"
+msgstr "Annulleret"
+
+msgid "sync_ti_canceling"
+msgstr "Stopper"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Konfliktløsning"
+
+msgid "sync_ti_progress_1"
+msgstr "Startet"
+
+msgid "sync_ti_progress_10"
+msgstr "Synkroniserer kontakter"
+
+msgid "sync_ti_progress_11"
+msgstr "Sender kalenderposter"
+
+msgid "sync_ti_progress_12"
+msgstr "Modtager kalenderposter"
+
+msgid "sync_ti_progress_13"
+msgstr "Synkroniserer kalenderposter"
+
+msgid "sync_ti_progress_14"
+msgstr "Sender noter"
+
+msgid "sync_ti_progress_15"
+msgstr "Modtager noter"
+
+msgid "sync_ti_progress_16"
+msgstr "Synkroniserer noter"
+
+msgid "sync_ti_progress_17"
+msgstr "Afslutter"
+
+msgid "sync_ti_progress_2"
+msgstr "Opretter forbindelse"
+
+msgid "sync_ti_progress_3"
+msgstr "Tilsluttet"
+
+msgid "sync_ti_progress_4"
+msgstr "Initialiserer"
+
+msgid "sync_ti_progress_5"
+msgstr "Sender"
+
+msgid "sync_ti_progress_6"
+msgstr "Modtager"
+
+msgid "sync_ti_progress_7"
+msgstr "Synkroniserer"
+
+msgid "sync_ti_progress_8"
+msgstr "Sender kontakter"
+
+msgid "sync_ti_progress_9"
+msgstr "Modtager kontakter"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Konflikter"
+
+msgid "sync_ti_sync_error"
+msgstr "Mislykkedes"
+
+msgid "sync_ti_today"
+msgstr "I dag"
+
+msgid "sync_ti_updating"
+msgstr "Opdaterer"
+
+msgid "sync_ti_wizard"
+msgstr "Overfør og synkroniser"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Kalender"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Fuldført"
+
+msgid "sync_ti_wizard_content"
+msgstr "Indhold"
+
+msgid "sync_ti_wizard_method"
+msgstr "Metode"
+
+msgid "sync_va_alarm"
+msgstr "Alarmkonflikt"
+
+msgid "sync_va_alarm2"
+msgstr "Alarm indstillet"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Kontakter"
+
+msgid "sync_va_events_tasks"
+msgstr "Kalenderbegivenheder og -opgaver"
+
+msgid "sync_va_from"
+msgstr "Fra"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Indstillingerne kan redigeres med en computer"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Opdaterer %s"
+
+msgid "sync_va_method_receive"
+msgstr "Hent"
+
+msgid "sync_va_method_send"
+msgstr "Send"
+
+msgid "sync_va_method_sync"
+msgstr "Synkroniser"
+
+msgid "sync_va_method_web"
+msgstr "Opdater"
+
+msgid "sync_va_newcalendar"
+msgstr "Opret ny kalender"
+
+msgid "sync_va_no_conduits"
+msgstr "(ingen kanaler)"
+
+msgid "sync_va_noalarm"
+msgstr "Ingen alarm"
+
+msgid "sync_va_norepeats"
+msgstr "Ikke gentaget"
+
+msgid "sync_va_notes"
+msgstr "Kalendernoter"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Gentagelseskonflikt"
+
+msgid "sync_va_repeated"
+msgstr "Gentaget"
+
+msgid "sync_va_to"
+msgstr "Til"
+
+msgid "sync_va_use"
+msgstr "Brug '%s' kalender"
+
+msgid "sync_va_web"
+msgstr "Web"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(ingen enheder valgt)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Denne enhed bruges allerede til en anden kanal"

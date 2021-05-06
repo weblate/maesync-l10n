@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sync_ap_name"
+msgstr "Overdracht en sync."
+
+msgid "sync_bd_method_retrieve"
+msgstr "Ophalen"
+
+msgid "sync_bd_method_send"
+msgstr "Verzenden"
+
+msgid "sync_bd_method_sync"
+msgstr "Synchroniseer"
+
+msgid "sync_bd_new"
+msgstr "Nieuw"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Apparaat selecteren"
+
+msgid "sync_fi_calendar_used"
+msgstr "Kalender"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Inhoud"
+
+msgid "sync_fi_device"
+msgstr "Apparaat"
+
+msgid "sync_fi_last_update"
+msgstr "Laatste bijwerking"
+
+msgid "sync_fi_method"
+msgstr "Methode"
+
+msgid "sync_fi_note"
+msgstr "Notitie"
+
+msgid "sync_fi_state_deleted"
+msgstr "Verwijderd"
+
+msgid "sync_fi_state_edited"
+msgstr "Bewerkt"
+
+msgid "sync_fi_time_unknown"
+msgstr "(tijd onbekend)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Gegevens ophalen"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Gegevens verzenden"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Gegevens synchroniseren"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Selecteer een kalender voor kalendergegevens van '%s'"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Bewerkte gegevens op beide apparaten. Kies welke versie u wilt behouden. "
+"Nieuwste versie geselecteerd."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"Apparaat ondersteunt meerdere kalenders. Het is mogelijk om een nieuwe "
+"kalender te maken of een bestaande kalender te gebruiken."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Kalender selecteren die u wilt verzenden"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"U kunt deze configuratie bewerken via Overdracht en synchronisatie in "
+"Instellingen. Tik buiten de wizard om de instellingen te negeren."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Gegevens selecteren om bij te sluiten"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Met deze wizard kunt u een overdracht of synchronisatieproces met andere "
+"apparaten instellen.\n"
+"\n"
+"OPMERKING: gebruik een pc voor PC Suite-synchronisatie."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Overbrengen of synchroniseren?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Tik op 'Voltooien' om de instellingen op te slaan. Er wordt een kanaal "
+"gemaakt en de gegevens worden onmiddellijk overgedragen."
+
+msgid "sync_ib_setting_failed"
+msgstr "Kan instellingen niet opslaan"
+
+msgid "sync_ic_calendar_content"
+msgstr ""
+"Dit kanaal bevat alleen contactpersonen. Selecteer een kalender om hier aan "
+"toe te voegen."
+
+msgid "sync_ic_calendar_content_send"
+msgstr ""
+"Dit kanaal bevat alleen contactpersonen. Selecteer de kalender die u wilt "
+"verzenden."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Ophalen niet ondersteund. In plaats daarvan gegevens synchroniseren?\n"
+"\n"
+"Gegevens van dit apparaat worden verzonden."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Verzenden niet ondersteund. In plaats daarvan gegevens synchroniseren?\n"
+"\n"
+"Gegevens van ander apparaat worden toegevoegd."
+
+msgid "sync_nc_import_web"
+msgstr ""
+"Abonneren op '%s'? Er worden een nieuwe kalender en een nieuw kanaal gemaakt."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Kanaal '%s' verwijderen?\n"
+"Er worden geen gegevens verwijderd. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Vergelijkbaar kanaal bestaat al.\n"
+"Kan dezelfde configuratie niet opnieuw gebruiken."
+
+msgid "sync_ti_calendar_select"
+msgstr "Overdracht en synchronisatie: kalender selecteren"
+
+msgid "sync_ti_canceled"
+msgstr "Geannuleerd"
+
+msgid "sync_ti_canceling"
+msgstr "Bezig met stoppen"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Conflicten oplossen"
+
+msgid "sync_ti_progress_1"
+msgstr "Gestart"
+
+msgid "sync_ti_progress_10"
+msgstr "Bezig met synchroniseren van contactpersonen"
+
+msgid "sync_ti_progress_11"
+msgstr "Bezig met verzenden van kalenderitems"
+
+msgid "sync_ti_progress_12"
+msgstr "Bezig met ontvangen van kalenderitems"
+
+msgid "sync_ti_progress_13"
+msgstr "Bezig met synchroniseren van kalenderitems"
+
+msgid "sync_ti_progress_14"
+msgstr "Bezig met verzenden van notities"
+
+msgid "sync_ti_progress_15"
+msgstr "Bezig met ontvangen van notities"
+
+msgid "sync_ti_progress_16"
+msgstr "Bezig met synchroniseren van notities"
+
+msgid "sync_ti_progress_17"
+msgstr "Bezig met finaliseren"
+
+msgid "sync_ti_progress_2"
+msgstr "Bezig met verbinden"
+
+msgid "sync_ti_progress_3"
+msgstr "Verbonden"
+
+msgid "sync_ti_progress_4"
+msgstr "Bezig met initialiseren"
+
+msgid "sync_ti_progress_5"
+msgstr "Bezig met verzenden"
+
+msgid "sync_ti_progress_6"
+msgstr "Bezig met ontvangen"
+
+msgid "sync_ti_progress_7"
+msgstr "Bezig met synchroniseren"
+
+msgid "sync_ti_progress_8"
+msgstr "Bezig met verzenden van contactpersonen"
+
+msgid "sync_ti_progress_9"
+msgstr "Bezig met ontvangen van contactpersonen"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Conflicten"
+
+msgid "sync_ti_sync_error"
+msgstr "Mislukt"
+
+msgid "sync_ti_today"
+msgstr "Vandaag"
+
+msgid "sync_ti_updating"
+msgstr "Bijwerken"
+
+msgid "sync_ti_wizard"
+msgstr "Overdracht en synchronisatie"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Kalender"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Voltooid"
+
+msgid "sync_ti_wizard_content"
+msgstr "Inhoud"
+
+msgid "sync_ti_wizard_method"
+msgstr "Methode"
+
+msgid "sync_va_alarm"
+msgstr "Alarmconflict"
+
+msgid "sync_va_alarm2"
+msgstr "Alarm ingesteld"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Contacten"
+
+msgid "sync_va_events_tasks"
+msgstr "Gebeurtenissen en taken op kalender"
+
+msgid "sync_va_from"
+msgstr "Van"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Instellingen kunnen via computer worden bewerkt"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Bezig met bijwerken van %s"
+
+msgid "sync_va_method_receive"
+msgstr "Ophalen"
+
+msgid "sync_va_method_send"
+msgstr "Verzenden"
+
+msgid "sync_va_method_sync"
+msgstr "Synchroniseer"
+
+msgid "sync_va_method_web"
+msgstr "Bijwerken"
+
+msgid "sync_va_newcalendar"
+msgstr "Nieuwe kalender maken"
+
+msgid "sync_va_no_conduits"
+msgstr "(geen kanalen)"
+
+msgid "sync_va_noalarm"
+msgstr "Geen alarm"
+
+msgid "sync_va_norepeats"
+msgstr "Niet herhaald"
+
+msgid "sync_va_notes"
+msgstr "Notities op kalender"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Herhaalconflict"
+
+msgid "sync_va_repeated"
+msgstr "Herhaald"
+
+msgid "sync_va_to"
+msgstr "Tot"
+
+msgid "sync_va_use"
+msgstr "‘%s’ kalender gebruiken"
+
+msgid "sync_va_web"
+msgstr "Web"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(geen apparaat geselecteerd)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Dit apparaat wordt al gebruikt voor een ander kanaal"

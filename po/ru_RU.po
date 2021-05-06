@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "sync_ap_name"
+msgstr "Перенос и синхр-ция"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Получить"
+
+msgid "sync_bd_method_send"
+msgstr "Отправить"
+
+msgid "sync_bd_method_sync"
+msgstr "Синхр-ция"
+
+msgid "sync_bd_new"
+msgstr "Создать"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Выбрать устройство"
+
+msgid "sync_fi_calendar_used"
+msgstr "Календарь"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Содержимое"
+
+msgid "sync_fi_device"
+msgstr "Устройство"
+
+msgid "sync_fi_last_update"
+msgstr "Последнее обновление"
+
+msgid "sync_fi_method"
+msgstr "Метод"
+
+msgid "sync_fi_note"
+msgstr "Заметка"
+
+msgid "sync_fi_state_deleted"
+msgstr "Удалено"
+
+msgid "sync_fi_state_edited"
+msgstr "Изменено"
+
+msgid "sync_fi_time_unknown"
+msgstr "(время неизвестно)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Получение данных"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Отправка данных"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Синхронизация данных"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Выбрать календарь для данных календаря %s"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Данные на обоих устройствах изменены. Выберите версию для сохранения. "
+"Выбрана последняя версия."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"Устройство поддерживает несколько календарей. Возможно создание нового "
+"календаря или использование существующего."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Выберите календарь для отправки"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"Вы можете изменить эту настройку (Параметры: Перенос и синхронизация). "
+"Коснитесь экрана вне окна Мастера для отмены настроек."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Выбрать данные для включения"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Данный Мастер позволяет выполнять обмен данными и синхронизацию с другими "
+"устройствами.\n"
+"\n"
+"ПРИМЕЧАНИЕ: Синхронизация при помощи PC Suite выполняется с использованием "
+"ПК."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Перенос или синхронизация?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Для сохранения настроек нажмите Готово. Будет создан канал и передача данных "
+"начнется незамедлительно."
+
+msgid "sync_ib_setting_failed"
+msgstr "Не удается сохранить параметры"
+
+msgid "sync_ic_calendar_content"
+msgstr ""
+"Этот канал содержит только контакты. Выберите календарь, чтобы добавить в "
+"него."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Этот канал содержит только контакты. Выберите календарь для отправки."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Получение данных не поддерживается. Осуществить вместо этого синхронизацию "
+"данных?\n"
+"\n"
+"Будут переданы данные с этого устройства."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Отправка данных не поддерживается. Осуществить вместо этого синхронизацию "
+"данных?\n"
+"\n"
+"Будут добавлены данные с другого устройства."
+
+msgid "sync_nc_import_web"
+msgstr "Подписаться на %s? Будут созданы новый календарь и канал."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Удалить канал %s?\n"
+"Данные не будут удалены. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Подобный канал уже существует.\n"
+"Невозможно использовать ту же конфигурацию дважды."
+
+msgid "sync_ti_calendar_select"
+msgstr "Перенос и синхронизация: Выбрать календарь"
+
+msgid "sync_ti_canceled"
+msgstr "Отменено"
+
+msgid "sync_ti_canceling"
+msgstr "Отмена"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Разрешение конфликтов"
+
+msgid "sync_ti_progress_1"
+msgstr "Начато"
+
+msgid "sync_ti_progress_10"
+msgstr "Синхронизация контактов"
+
+msgid "sync_ti_progress_11"
+msgstr "Отправка записей календаря"
+
+msgid "sync_ti_progress_12"
+msgstr "Получение записей календаря"
+
+msgid "sync_ti_progress_13"
+msgstr "Синхронизация записей календаря"
+
+msgid "sync_ti_progress_14"
+msgstr "Отправка заметок"
+
+msgid "sync_ti_progress_15"
+msgstr "Получение заметок"
+
+msgid "sync_ti_progress_16"
+msgstr "Синхронизация заметок"
+
+msgid "sync_ti_progress_17"
+msgstr "Завершение"
+
+msgid "sync_ti_progress_2"
+msgstr "Соединение"
+
+msgid "sync_ti_progress_3"
+msgstr "Подключен"
+
+msgid "sync_ti_progress_4"
+msgstr "Инициализация"
+
+msgid "sync_ti_progress_5"
+msgstr "Отправка"
+
+msgid "sync_ti_progress_6"
+msgstr "Получение"
+
+msgid "sync_ti_progress_7"
+msgstr "Синхронизация"
+
+msgid "sync_ti_progress_8"
+msgstr "Отправка контактов"
+
+msgid "sync_ti_progress_9"
+msgstr "Получение контактов"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Конфликты"
+
+msgid "sync_ti_sync_error"
+msgstr "Сбой"
+
+msgid "sync_ti_today"
+msgstr "Сегодня"
+
+msgid "sync_ti_updating"
+msgstr "Обновление"
+
+msgid "sync_ti_wizard"
+msgstr "Перенос и синхронизация"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Календарь"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Готово"
+
+msgid "sync_ti_wizard_content"
+msgstr "Содержимое"
+
+msgid "sync_ti_wizard_method"
+msgstr "Метод"
+
+msgid "sync_va_alarm"
+msgstr "Напомнить о конфликте"
+
+msgid "sync_va_alarm2"
+msgstr "Задать напоминание"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Контакты"
+
+msgid "sync_va_events_tasks"
+msgstr "События и задачи в календаре"
+
+msgid "sync_va_from"
+msgstr "От"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Параметры можно изменить на компьютере"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Обновление %s"
+
+msgid "sync_va_method_receive"
+msgstr "Получить"
+
+msgid "sync_va_method_send"
+msgstr "Отправить"
+
+msgid "sync_va_method_sync"
+msgstr "Синхронизация"
+
+msgid "sync_va_method_web"
+msgstr "Обновить"
+
+msgid "sync_va_newcalendar"
+msgstr "Создать новый календарь"
+
+msgid "sync_va_no_conduits"
+msgstr "(нет каналов)"
+
+msgid "sync_va_noalarm"
+msgstr "Без напоминания"
+
+msgid "sync_va_norepeats"
+msgstr "Нет повтора"
+
+msgid "sync_va_notes"
+msgstr "Заметки в календаре"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Повтор конфликта"
+
+msgid "sync_va_repeated"
+msgstr "Повтор"
+
+msgid "sync_va_to"
+msgstr "До"
+
+msgid "sync_va_use"
+msgstr "Использовать календарь ‘%s’"
+
+msgid "sync_va_web"
+msgstr "Веб"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(устройство не выбрано)"
+
+msgid "sync_va_wizard_device_used"
+msgstr ""
+"Данное устройство уже используется\n"
+"для другого канала"
