@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009-10-23 12:34+0200\n"
+"Last-Translator:\n"
+"Language-Team: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "sync_ap_name"
+msgstr "Prenos a synchronizácia"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Načítať"
+
+msgid "sync_bd_method_send"
+msgstr "Odoslať"
+
+msgid "sync_bd_method_sync"
+msgstr "Synchronizácia"
+
+msgid "sync_bd_new"
+msgstr "Nové"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Vybrať zariadenie"
+
+msgid "sync_fi_calendar_used"
+msgstr "Kalendár"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Obsah"
+
+msgid "sync_fi_device"
+msgstr "Zariadenie"
+
+msgid "sync_fi_last_update"
+msgstr "Posledná aktualizácia"
+
+msgid "sync_fi_method"
+msgstr "Metóda"
+
+msgid "sync_fi_note"
+msgstr "Poznámka"
+
+msgid "sync_fi_state_deleted"
+msgstr "Odstránené"
+
+msgid "sync_fi_state_edited"
+msgstr "Upravené"
+
+msgid "sync_fi_time_unknown"
+msgstr "(čas neznámy)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Načítať dáta"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Odoslať dáta"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Synchronizovať dáta"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Vyberte kalendár pre „%s“ dátum kalendára"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Informácie upravené v obidvoch zariadeniach. Zvolte verziu pre uloženie. "
+"Zvolená najnovšia verzia."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"Zariadenie podporuje viacej kalendárov. Môžete vytvoriť nový kalendár alebo "
+"použiť existujúci."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Vyberte kalendár na odoslanie"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"Túto konfiguráciu možno upraviť prostredníctvom možnosti „Nastavenie: Prenos "
+"a synchronizácia“. Nastavenie opustíte klepnutím mimo sprievodcu."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Vyberte dáta pre prenos"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Sprievodca vám umožní spustiť proces prenosu alebo synchronizácie s iným "
+"zariadením.\n"
+"\n"
+"POZNÁMKA: Pre synchronizáciu sady PC Suite použite počítač."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Preniesť alebo synchronizovať?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Klepnutím na možnosť „Dokončiť“ uložíte nastavenie. Vytvorí sa spojenie a "
+"bude zahájený prenos dát."
+
+msgid "sync_ib_setting_failed"
+msgstr "Nemožno uložiť nastavenie"
+
+msgid "sync_ic_calendar_content"
+msgstr ""
+"Toto spojenie obsahuje len kontakty. Vyberte kalendár, ktorý k nemu chcete "
+"pridať."
+
+msgid "sync_ic_calendar_content_send"
+msgstr ""
+"Toto spojenie obsahuje len kontakty. Vyberte kalendár, ktorý chcete odoslať."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Načítanie nie je podporované. Synchronizovať dáta?\n"
+"\n"
+"Dáta z tohoto zariadenia budú odoslané."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Odosielanie nie je podporované. Synchronizovať dáta?\n"
+"\n"
+"Budú pridané dáta z iného zariadenia."
+
+msgid "sync_nc_import_web"
+msgstr "Prihlásiť sa k „%s“? Bude vytvorený nový kalendár a nové spojenie."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Odstrániť spojenie „%s“?\n"
+" Žiadne dáta nebudú odstránené. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Podobné spojenie už existuje.\n"
+"Nemožno použiť rovnakú konfiguráciu dvakrát."
+
+msgid "sync_ti_calendar_select"
+msgstr "Prenos a synchronizácia: Vyberte kalendár"
+
+msgid "sync_ti_canceled"
+msgstr "Zrušená"
+
+msgid "sync_ti_canceling"
+msgstr "Zastavovanie"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Rozhodnutie konfliktu"
+
+msgid "sync_ti_progress_1"
+msgstr "Zahajovanie"
+
+msgid "sync_ti_progress_10"
+msgstr "Synchronizácia kontaktov"
+
+msgid "sync_ti_progress_11"
+msgstr "Odosielanie položiek kalendára"
+
+msgid "sync_ti_progress_12"
+msgstr "Prijímanie položiek kalendára"
+
+msgid "sync_ti_progress_13"
+msgstr "Synchronizácia položiek kalendára"
+
+msgid "sync_ti_progress_14"
+msgstr "Odosielanie poznámok"
+
+msgid "sync_ti_progress_15"
+msgstr "Prijímanie poznámok"
+
+msgid "sync_ti_progress_16"
+msgstr "Synchronizácia poznámok"
+
+msgid "sync_ti_progress_17"
+msgstr "Dokončovanie"
+
+msgid "sync_ti_progress_2"
+msgstr "Pripojovanie"
+
+msgid "sync_ti_progress_3"
+msgstr "Pripojené"
+
+msgid "sync_ti_progress_4"
+msgstr "Inicializácia"
+
+msgid "sync_ti_progress_5"
+msgstr "Odosielanie"
+
+msgid "sync_ti_progress_6"
+msgstr "Prijímanie"
+
+msgid "sync_ti_progress_7"
+msgstr "Synchronizácia"
+
+msgid "sync_ti_progress_8"
+msgstr "Odosielanie kontaktov"
+
+msgid "sync_ti_progress_9"
+msgstr "Prijímanie kontaktov"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Konflikty"
+
+msgid "sync_ti_sync_error"
+msgstr "Neúspešná"
+
+msgid "sync_ti_today"
+msgstr "Dnes"
+
+msgid "sync_ti_updating"
+msgstr "Aktualizácie"
+
+msgid "sync_ti_wizard"
+msgstr "Prenos a synchronizácia"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Kalendár"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Dokončiť"
+
+msgid "sync_ti_wizard_content"
+msgstr "Obsah"
+
+msgid "sync_ti_wizard_method"
+msgstr "Metóda"
+
+msgid "sync_va_alarm"
+msgstr "Konflikt budíka"
+
+msgid "sync_va_alarm2"
+msgstr "Budík nastavený"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Kontakty"
+
+msgid "sync_va_events_tasks"
+msgstr "Úlohy a udalosti kalendára"
+
+msgid "sync_va_from"
+msgstr "Od"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Nastavenie možno upraviť pomocou počítača"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Aktualizácia %s"
+
+msgid "sync_va_method_receive"
+msgstr "Načítať"
+
+msgid "sync_va_method_send"
+msgstr "Odoslať"
+
+msgid "sync_va_method_sync"
+msgstr "Synchronizácia"
+
+msgid "sync_va_method_web"
+msgstr "Aktualizovať"
+
+msgid "sync_va_newcalendar"
+msgstr "Vytvoriť nový kalendár"
+
+msgid "sync_va_no_conduits"
+msgstr "(žiadne spojenia)"
+
+msgid "sync_va_noalarm"
+msgstr "Budík nenastavený"
+
+msgid "sync_va_norepeats"
+msgstr "Neopakované"
+
+msgid "sync_va_notes"
+msgstr "Poznámky kalendára"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Konflikt opakovania"
+
+msgid "sync_va_repeated"
+msgstr "Opakované"
+
+msgid "sync_va_to"
+msgstr "Do"
+
+msgid "sync_va_use"
+msgstr "Použiť kalendár „%s“"
+
+msgid "sync_va_web"
+msgstr "Web"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(nie je vybrané žiadne zariadenie)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Toto nastavenie je už používané iným spojením"
