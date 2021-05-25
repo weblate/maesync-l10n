@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-02-24 11:55+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sync_ap_name"
+msgstr "Átvitel és szinkronizálás"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Fogadás"
+
+msgid "sync_bd_method_send"
+msgstr "Küldés"
+
+msgid "sync_bd_method_sync"
+msgstr "Szinkronizálás"
+
+msgid "sync_bd_new"
+msgstr "Új"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Eszköz választás"
+
+msgid "sync_fi_calendar_used"
+msgstr "Naptár"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Tartalom"
+
+msgid "sync_fi_device"
+msgstr "Eszköz"
+
+msgid "sync_fi_last_update"
+msgstr "Utolsó frissítés"
+
+msgid "sync_fi_method"
+msgstr "Eljárás"
+
+msgid "sync_fi_note"
+msgstr "Jegyzet"
+
+msgid "sync_fi_state_deleted"
+msgstr "Törölt"
+
+msgid "sync_fi_state_edited"
+msgstr "Szerkesztett"
+
+msgid "sync_fi_time_unknown"
+msgstr "(ismeretlen idő)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Adatok fogadása"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Adatok küldése"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Adatok szinkronizálása"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Naptár választása a(z) '%s' naptár adatnak"
+
+msgid "sync_ia_content_to_keep"
+msgstr "Szerkesztett információk mindkét eszközön. Válaszd ki, melyik maradjon. Az újabb kiválasztva."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr "Az eszköz több naptár kezelését is támogatja. Lehetőség van új naptár létrehozására vagy egy meglévő használatára."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "A küldéshez válassz ki egy naptárat"
+
+msgid "sync_ia_wizard_complete"
+msgstr "Ezt a beállítást módosíthatod a 'Beállítások: Átvitel és szinkronizálás' menüpontban. A módosítások elvetéséhez érintsd meg a kijelzőt a varázslón kívül."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Válaszd ki az adatokat"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Ezzel a varázslóval beállíthatod a más eszközökkel való átviteli vagy szinkronizálási folyamatot.\n"
+"\n"
+"MEGJEGYZÉS: Használj számítógépet a PC Suit szinkronizálásához."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Átvitel vagy szinkronizálás?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr "A beállítások mentéséhez kattints a 'Befejezés'-re. A csatorna létrehozásra kerül és az adatok átvitele megkezdődik."
+
+msgid "sync_ib_setting_failed"
+msgstr "A beállításokat nem lehet elmenteni."
+
+msgid "sync_ic_calendar_content"
+msgstr "Ez a csatorna csak névjegyeket tartalmaz. Válassz ki egy naptárat a hozzáadáshoz."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Ez a csatorna csak névjegyeket tartalmaz. Válassz ki egy naptárat a küldéshez."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"A fogadás nem támogatott. Szinkronizálod az adatokat helyette?\n"
+"\n"
+"Az adatok erről az eszköről elküldésre kerülnek."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"A küldés nem támogatott. Szinkroizálod az adatokat helyette?\n"
+"\n"
+"A másik eszközről érkező adatok hozzáadásra kerülnek."
+
+msgid "sync_nc_import_web"
+msgstr "Előfizetsz a következőre: '%s'? Új naptár és csatorna lesz létrehozva."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"Törlöd a(z) '%s ' csatornát?\n"
+"Az adatok nem lesznek törölve. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Hasonló csatorna már létezik.\n"
+"Ugyanaz a beállítás nem használható kétszer."
+
+msgid "sync_ti_calendar_select"
+msgstr "Átvitel és szinkronizálás: Válassz naptárat"
+
+msgid "sync_ti_canceled"
+msgstr "Leállítva"
+
+msgid "sync_ti_canceling"
+msgstr "Leállítás..."
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Ütközések feloldása"
+
+msgid "sync_ti_progress_1"
+msgstr "Elindítva"
+
+msgid "sync_ti_progress_10"
+msgstr "Névjegyek szinkronizálása"
+
+msgid "sync_ti_progress_11"
+msgstr "Naptár bejegyzések küldése"
+
+msgid "sync_ti_progress_12"
+msgstr "Naptár bejegyzések fogadása"
+
+msgid "sync_ti_progress_13"
+msgstr "Naptár bejegyzések szinkronizálása"
+
+msgid "sync_ti_progress_14"
+msgstr "Jegyzetek küldése"
+
+msgid "sync_ti_progress_15"
+msgstr "Jegyzetek fogadása"
+
+msgid "sync_ti_progress_16"
+msgstr "Jegyzetek szinkronizálása"
+
+msgid "sync_ti_progress_17"
+msgstr "Befejezés"
+
+msgid "sync_ti_progress_2"
+msgstr "Csatlakozás..."
+
+msgid "sync_ti_progress_3"
+msgstr "Csatlakoztatva"
+
+msgid "sync_ti_progress_4"
+msgstr "Inicializálás"
+
+msgid "sync_ti_progress_5"
+msgstr "Küldés"
+
+msgid "sync_ti_progress_6"
+msgstr "Fogadás"
+
+msgid "sync_ti_progress_7"
+msgstr "Szinkronizálás"
+
+msgid "sync_ti_progress_8"
+msgstr "Névjegyek küldése"
+
+msgid "sync_ti_progress_9"
+msgstr "Névjegyek fogadása"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Ütközések"
+
+msgid "sync_ti_sync_error"
+msgstr "Sikertelen"
+
+msgid "sync_ti_today"
+msgstr "Ma"
+
+msgid "sync_ti_updating"
+msgstr "Frissítés"
+
+msgid "sync_ti_wizard"
+msgstr "Átvitel és szinkronizálás"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Naptár"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Összes"
+
+msgid "sync_ti_wizard_content"
+msgstr "Tartalom"
+
+msgid "sync_ti_wizard_method"
+msgstr "Eljárás"
+
+msgid "sync_va_alarm"
+msgstr "Riasztási ütközés"
+
+msgid "sync_va_alarm2"
+msgstr "Riasztás beállítás"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Névjegyek"
+
+msgid "sync_va_events_tasks"
+msgstr "Naptár bejegyzések és feladatok"
+
+msgid "sync_va_from"
+msgstr "From"
+
+msgid "sync_va_info_pcsuite"
+msgstr "A beállítások számítógépen keresztül módosíthatóak"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Frissítés %s"
+
+msgid "sync_va_method_receive"
+msgstr "Fogadás"
+
+msgid "sync_va_method_send"
+msgstr "Küldés"
+
+msgid "sync_va_method_sync"
+msgstr "Szinkronizálás"
+
+msgid "sync_va_method_web"
+msgstr "Frissítés"
+
+msgid "sync_va_newcalendar"
+msgstr "Új naptár létrehozása"
+
+msgid "sync_va_no_conduits"
+msgstr "(nincsenek csatornák)"
+
+msgid "sync_va_noalarm"
+msgstr "Nincs riasztás"
+
+msgid "sync_va_norepeats"
+msgstr "Nem ismételt"
+
+msgid "sync_va_notes"
+msgstr "Naptár bejegyzések"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Ismétlési ütközés"
+
+msgid "sync_va_repeated"
+msgstr "Ismételt"
+
+msgid "sync_va_to"
+msgstr "-"
+
+msgid "sync_va_use"
+msgstr "Használatban a(z) ‘%s’ naptár"
+
+msgid "sync_va_web"
+msgstr "Web"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(nincs kiválasztott eszköz)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Ez az eszköz már másik csatornán használatban van"
+
