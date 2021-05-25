@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-04-22 13:42+0200\n"
+"Last-Translator: iz <mo7iballah@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sync_ap_name"
+msgstr "النقل والتزامن"
+
+msgid "sync_bd_method_retrieve"
+msgstr "إستعادة"
+
+msgid "sync_bd_method_send"
+msgstr "إرسال"
+
+msgid "sync_bd_method_sync"
+msgstr "تزامن"
+
+msgid "sync_bd_new"
+msgstr "جديد"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "حدد الجهاز"
+
+msgid "sync_fi_calendar_used"
+msgstr "التقويم"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "المحتوى"
+
+msgid "sync_fi_device"
+msgstr "الجهاز"
+
+msgid "sync_fi_last_update"
+msgstr "آخر تحديث"
+
+msgid "sync_fi_method"
+msgstr "الطريقة"
+
+msgid "sync_fi_note"
+msgstr "ملاحظة"
+
+msgid "sync_fi_state_deleted"
+msgstr "محذوف"
+
+msgid "sync_fi_state_edited"
+msgstr "معدل"
+
+msgid "sync_fi_time_unknown"
+msgstr "(الوقت غير معروف)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "إستعادة البيانات"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "إرسال البيانات"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "مزامنة البيانات"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "حدد التقويم لـ '%s' بيانات التقويم"
+
+msgid "sync_ia_content_to_keep"
+msgstr "تم تعديل البيانات على كلا الجهازين. قم بإختيار الإصدار الذي تريد إبقائه. تم اختيار احدث إصدار."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr "الجهاز يدعم أكثر من تقويم. بإمكانك إنشاء تقويم جديد أو استخدام تقويم موجود حالياً."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "حدد التقويم المراد إرساله"
+
+msgid "sync_ia_wizard_complete"
+msgstr "يمكنك تعديل هذه الخيارت عن طريق 'الإعدادات: النقل والتزامن'. لتجاهل التغييرات اضغط خارج المربع."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "حدد البيانات المطلوبة"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"هذا المعالج يسمح لك بإنشاء أو مشاركة عملية التزامن مع الأجهزة الأخرى.\n"
+"\n"
+"ملاحظة : تستطيع إستخدام الحاسوب للمزامنة ايضاً."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "هل تريد النقل أم المزامنة؟"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr "اضغط 'انهاء' لحفظ التغيرات. سيتم تقل البيانات فوراً."
+
+msgid "sync_ib_setting_failed"
+msgstr "غير قادر على حفظ الإعدادات"
+
+msgid "sync_ic_calendar_content"
+msgstr "هذا الملف يشمل الأسماء فقط. حدد تقويم ليتم إضافتهم إليه"
+
+msgid "sync_ic_calendar_content_send"
+msgstr "هذا الملف يشمل الأسماء فقط. حدد التقويم لإرساله."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"الإسترداد هنا غير مدعوم. هل تريد المزامنة?\n"
+"\n"
+"سيتم إرسال البيانات من هذا الجهاز."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"الإرسال هنا غير مدعوم. هل تريد المزامنة?\n"
+"\n"
+"سيتم إرسال البيانات من هذا الجهاز."
+
+msgid "sync_nc_import_web"
+msgstr "هل تريد الإشتراك في '%s'? سيتم إنشاء تقويم جديد."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+"هل تريد حذف هذه القناة '%s'?\n"
+"لن تفقد أي بيانات. "
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"قناة مماثلة موجودة بالفعل.\n"
+"غير قادر على استخدام نفس الإعدادات مرتين."
+
+msgid "sync_ti_calendar_select"
+msgstr "النقل والتزامن: حدد تقويم"
+
+msgid "sync_ti_canceled"
+msgstr "تم الإلغاء"
+
+msgid "sync_ti_canceling"
+msgstr "جاري التوقيف"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "حل المشكلة"
+
+msgid "sync_ti_progress_1"
+msgstr "تم البدء"
+
+msgid "sync_ti_progress_10"
+msgstr "جاري مزامنة جهات الإتصال"
+
+msgid "sync_ti_progress_11"
+msgstr "جاري إرسال معلومات التقويم"
+
+msgid "sync_ti_progress_12"
+msgstr "جاري استعادة بيانات التقويم"
+
+msgid "sync_ti_progress_13"
+msgstr "جاري مزامنة بيانات التقويم"
+
+msgid "sync_ti_progress_14"
+msgstr "جاري إرسال الملاحظات"
+
+msgid "sync_ti_progress_15"
+msgstr "جاري استقبال الملاحظات"
+
+msgid "sync_ti_progress_16"
+msgstr "جاري مزامنة الملاحظات"
+
+msgid "sync_ti_progress_17"
+msgstr "جاري الإنهاء"
+
+msgid "sync_ti_progress_2"
+msgstr "جاري الإتصال"
+
+msgid "sync_ti_progress_3"
+msgstr "تم الإتصال"
+
+msgid "sync_ti_progress_4"
+msgstr "جاري التهيئة"
+
+msgid "sync_ti_progress_5"
+msgstr "جاري الإرسال"
+
+msgid "sync_ti_progress_6"
+msgstr "جاري الإستقبال"
+
+msgid "sync_ti_progress_7"
+msgstr "جاري المزامنة"
+
+msgid "sync_ti_progress_8"
+msgstr "جاري إرسال جهات الإتصال"
+
+msgid "sync_ti_progress_9"
+msgstr "جاري استقبال جهات الإتصال"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "المشاكل"
+
+msgid "sync_ti_sync_error"
+msgstr "فشل"
+
+msgid "sync_ti_today"
+msgstr "اليوم"
+
+msgid "sync_ti_updating"
+msgstr "جاري التحديث"
+
+msgid "sync_ti_wizard"
+msgstr "النقل والمزامنة"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "التقويم"
+
+msgid "sync_ti_wizard_complete"
+msgstr "تم"
+
+msgid "sync_ti_wizard_content"
+msgstr "المحتوى"
+
+msgid "sync_ti_wizard_method"
+msgstr "الطريقة"
+
+msgid "sync_va_alarm"
+msgstr "خطأ في المنبه"
+
+msgid "sync_va_alarm2"
+msgstr "تم ضبط المنبه"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "جهات الإتصال"
+
+msgid "sync_va_events_tasks"
+msgstr "أحداث التقويم والمهام"
+
+msgid "sync_va_from"
+msgstr "من"
+
+msgid "sync_va_info_pcsuite"
+msgstr "يمكن تعدل الإعدادات عن طريق الحاسوب"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "جاري التحديث %s"
+
+msgid "sync_va_method_receive"
+msgstr "إسترداد"
+
+msgid "sync_va_method_send"
+msgstr "إرسال"
+
+msgid "sync_va_method_sync"
+msgstr "مزامنة"
+
+msgid "sync_va_method_web"
+msgstr "تحديث"
+
+msgid "sync_va_newcalendar"
+msgstr "إنشاء تقويم جديد"
+
+msgid "sync_va_no_conduits"
+msgstr "(لا يوجد قنوات)"
+
+msgid "sync_va_noalarm"
+msgstr "المنبه غير مضبوط"
+
+msgid "sync_va_norepeats"
+msgstr "غير متكرر"
+
+msgid "sync_va_notes"
+msgstr "ملاحظات التقويم"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "خطأ في التكرار"
+
+msgid "sync_va_repeated"
+msgstr "مكرر"
+
+msgid "sync_va_to"
+msgstr "الى"
+
+msgid "sync_va_use"
+msgstr "استخدم '%s' تقويم"
+
+msgid "sync_va_web"
+msgstr "الإنترنت"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(لم تحدد جهاز)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "هذا الجهاز مستخدم بالفعل من قناة اخرى"
+
