@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-05-29 16:11+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sync_ap_name"
+msgstr "Aktar & Senkronla"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Getir"
+
+msgid "sync_bd_method_send"
+msgstr "Gönder"
+
+msgid "sync_bd_method_sync"
+msgstr "Senkron"
+
+msgid "sync_bd_new"
+msgstr "Yeni"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Cihaz seç"
+
+msgid "sync_fi_calendar_used"
+msgstr "Takvim"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "İçerik"
+
+msgid "sync_fi_device"
+msgstr "Cihaz"
+
+msgid "sync_fi_last_update"
+msgstr "Son güncelleme"
+
+msgid "sync_fi_method"
+msgstr "Yöntem"
+
+msgid "sync_fi_note"
+msgstr "Not"
+
+msgid "sync_fi_state_deleted"
+msgstr "Silindi"
+
+msgid "sync_fi_state_edited"
+msgstr "Düzenlendi"
+
+msgid "sync_fi_time_unknown"
+msgstr "(zaman bilinmiyor)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Veri al"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Veri gönder"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Veri senkronla"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "'%s' takvim verisi için takvim seçin"
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+"Değiştirilmiş bilgi iki cihazda mevcut. Saklamak istediğiniz sürümü seçiniz. "
+"En yeni sürüm seçilidir."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+"Cihaz birden fazla takvim destekliyor. Yeni takvim oluşturulabilir veya mevcut "
+"takvim kullanılabilir."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Gönderilecek takvimi seçin"
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+"Bu düzenlemeyi 'Ayarlar: Aktar & senkronla' ile değiştirebilirsiniz. Ayarlardan vazgeçmek için "
+"sihirbazın dışına tıklayınız."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Dahil etmek için veri seçiniz"
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+"Bu sihirbaz başka cihazlara aktarma ve senkronlama yapmanızı sağlar.\n"
+"\n"
+"NOT: PC Suite senkronizasyonu için bilgisayarı kullanın."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Aktar veya senkronize et?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+"Ayarları kaydetmek için 'Bitir' tuşuna basın. Bir kanal oluşturulacak ve veri "
+"aktarımı başlayacak."
+
+msgid "sync_ib_setting_failed"
+msgstr "Ayarlar kaydedilemiyor"
+
+msgid "sync_ic_calendar_content"
+msgstr "Bu kanal sadece kişileri içerir. Eklemek için bir takvim seçin."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Bu kanal sadece kişileri içerir. Göndermek için bir takvim seçin."
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+"Alım desteklenmiyor. Veri senkronize edilsin mi?\n"
+"\n"
+"Bu cihazdan veri gönderilecektir."
+
+msgid "sync_nc_error_send"
+msgstr ""
+"Gönderim desteklenmiyor. Senkronize edilsin mi?\n"
+"\n"
+"Diğer cihazdan veri dahil edilecektir."
+
+msgid "sync_nc_import_web"
+msgstr "'%s' abonesi ol? Yeni takvim ve kanal oluşturulacaktır."
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+" '%s' kanalı silinsin mi?\n"
+"Veri silinmeyecek."
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+"Benzer kanal zaten mevcut.\n"
+"Aynı ayarlar tekrar kullanılamıyor."
+
+msgid "sync_ti_calendar_select"
+msgstr "Aktar ve senkronla: Takvim seçin"
+
+msgid "sync_ti_canceled"
+msgstr "Vazgeçildi"
+
+msgid "sync_ti_canceling"
+msgstr "Durduruluyor"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Çakışma çözümü"
+
+msgid "sync_ti_progress_1"
+msgstr "Başlatıldı"
+
+msgid "sync_ti_progress_10"
+msgstr "Kişiler senkronlanıyor"
+
+msgid "sync_ti_progress_11"
+msgstr "Takvim kayıtları gönderiliyor"
+
+msgid "sync_ti_progress_12"
+msgstr "Takvim kayıtları alınıyor"
+
+msgid "sync_ti_progress_13"
+msgstr "Takvim kayıtları senkronize ediliyor"
+
+msgid "sync_ti_progress_14"
+msgstr "Notlar gönderiliyor"
+
+msgid "sync_ti_progress_15"
+msgstr "Notlar alınıyor"
+
+msgid "sync_ti_progress_16"
+msgstr "Notlar senkronlanıyor"
+
+msgid "sync_ti_progress_17"
+msgstr "Sonlandırılıyor"
+
+msgid "sync_ti_progress_2"
+msgstr "Bağlanıyor"
+
+msgid "sync_ti_progress_3"
+msgstr "Bağlandı"
+
+msgid "sync_ti_progress_4"
+msgstr "Hazırlanıyor"
+
+msgid "sync_ti_progress_5"
+msgstr "Gönderiliyor"
+
+msgid "sync_ti_progress_6"
+msgstr "Alınıyor"
+
+msgid "sync_ti_progress_7"
+msgstr "Senkronlanıyor"
+
+msgid "sync_ti_progress_8"
+msgstr "Kişiler gönderiliyor"
+
+msgid "sync_ti_progress_9"
+msgstr "Kişiler alınıyor"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Çakışmalar"
+
+msgid "sync_ti_sync_error"
+msgstr "Başarısız"
+
+msgid "sync_ti_today"
+msgstr "Bugün"
+
+msgid "sync_ti_updating"
+msgstr "Güncelliyor"
+
+msgid "sync_ti_wizard"
+msgstr "Aktar & senkronla"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Takvim"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Tamamla"
+
+msgid "sync_ti_wizard_content"
+msgstr "İçerik"
+
+msgid "sync_ti_wizard_method"
+msgstr "Yöntem"
+
+msgid "sync_va_alarm"
+msgstr "Alarm çakışması"
+
+msgid "sync_va_alarm2"
+msgstr "Alarm ayarlandı"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Kişiler"
+
+msgid "sync_va_events_tasks"
+msgstr "Takvim olayları ve görevleri"
+
+msgid "sync_va_from"
+msgstr "Kimden"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Ayarlar bilgisayardan düzenlenebilir"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "%s güncelleniyor"
+
+msgid "sync_va_method_receive"
+msgstr "Al"
+
+msgid "sync_va_method_send"
+msgstr "Gönder"
+
+msgid "sync_va_method_sync"
+msgstr "Senkonize et"
+
+msgid "sync_va_method_web"
+msgstr "Güncelle"
+
+msgid "sync_va_newcalendar"
+msgstr "Yeni takvim oluştur"
+
+msgid "sync_va_no_conduits"
+msgstr "(kanal yok)"
+
+msgid "sync_va_noalarm"
+msgstr "Alarm yok"
+
+msgid "sync_va_norepeats"
+msgstr "Tekrarlanmadı"
+
+msgid "sync_va_notes"
+msgstr "Takvim notları"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Tekrarlama çakışması"
+
+msgid "sync_va_repeated"
+msgstr "Tekrarlandı"
+
+msgid "sync_va_to"
+msgstr "Kime"
+
+msgid "sync_va_use"
+msgstr "‘%s’ takvimini kullan"
+
+msgid "sync_va_web"
+msgstr "Web"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(cihaz seçilmedi)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Bu cihaz zaten başka bir kanalda kullanılıyor"
