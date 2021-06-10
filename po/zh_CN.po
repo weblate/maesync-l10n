@@ -1,0 +1,291 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "sync_ap_name"
+msgstr "传输与同步"
+
+msgid "sync_bd_method_retrieve"
+msgstr "检索"
+
+msgid "sync_bd_method_send"
+msgstr "发送"
+
+msgid "sync_bd_method_sync"
+msgstr "同步"
+
+msgid "sync_bd_new"
+msgstr "新建"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "选择设备"
+
+msgid "sync_fi_calendar_used"
+msgstr "日历"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "联系人"
+
+msgid "sync_fi_device"
+msgstr "设备"
+
+msgid "sync_fi_last_update"
+msgstr "最后更新"
+
+msgid "sync_fi_method"
+msgstr "方法"
+
+msgid "sync_fi_note"
+msgstr "笔记"
+
+msgid "sync_fi_state_deleted"
+msgstr "删除"
+
+msgid "sync_fi_state_edited"
+msgstr "编辑"
+
+msgid "sync_fi_time_unknown"
+msgstr "(未知时间)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "检索数据"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "发送数据"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "同步数据"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "选择日历 '%s' 日历数据"
+
+msgid "sync_ia_content_to_keep"
+msgstr "在两台设备上编辑信息.同时备份您的版本.该过程后最新版本将会被选择."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr "设备支持多个日历.可以创建新的日历或利用现有的日历."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "选择日历发送"
+
+msgid "sync_ia_wizard_complete"
+msgstr "您可以修改此配置通过 '设置: 传输与同步'. 忽略由该向导引导的设置"
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "选择数据,包括"
+
+msgid "sync_ia_wizard_intro"
+msgstr "此向导\n注意:使用PC套件同步电脑."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "传输或同步?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr "点击'完成'保存设置.一个频道将被创建和数据传输将立即开始."
+
+msgid "sync_ib_setting_failed"
+msgstr "无法保存设置"
+
+msgid "sync_ic_calendar_content"
+msgstr "该通道只包括联系人.选择一个日历添加到它"
+
+msgid "sync_ic_calendar_content_send"
+msgstr "该通道只包括联系人.选择日历发送"
+
+msgid "sync_nc_error_retrieve"
+msgstr "检索不支持将从这个设备发送数据?"
+
+msgid "sync_nc_error_send"
+msgstr "不支持发送\n将从这个设备发送数据."
+
+msgid "sync_nc_import_web"
+msgstr "订阅 '%s'? 新的日历和频道将被创建."
+
+msgid "sync_nc_remove_conduit"
+msgstr "删除频道没有数据被删除."
+
+msgid "sync_ni_content_duplicate"
+msgstr "类似的频道已经存在.\n无法使用相同的配置两次."
+
+msgid "sync_ti_calendar_select"
+msgstr "传输与同步: 选择日历"
+
+msgid "sync_ti_canceled"
+msgstr "取消"
+
+msgid "sync_ti_canceling"
+msgstr "停止"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "解决冲突"
+
+msgid "sync_ti_progress_1"
+msgstr "开始"
+
+msgid "sync_ti_progress_10"
+msgstr "同步联系人"
+
+msgid "sync_ti_progress_11"
+msgstr "发送日历项"
+
+msgid "sync_ti_progress_12"
+msgstr "接收日历项"
+
+msgid "sync_ti_progress_13"
+msgstr "同步日历项"
+
+msgid "sync_ti_progress_14"
+msgstr "发送说明"
+
+msgid "sync_ti_progress_15"
+msgstr "接收说明"
+
+msgid "sync_ti_progress_16"
+msgstr "同步说明"
+
+msgid "sync_ti_progress_17"
+msgstr "完成中"
+
+msgid "sync_ti_progress_2"
+msgstr "正在连接"
+
+msgid "sync_ti_progress_3"
+msgstr "已连接"
+
+msgid "sync_ti_progress_4"
+msgstr "初始化"
+
+msgid "sync_ti_progress_5"
+msgstr "发送中"
+
+msgid "sync_ti_progress_6"
+msgstr "接受中"
+
+msgid "sync_ti_progress_7"
+msgstr "正在同步"
+
+msgid "sync_ti_progress_8"
+msgstr "发送联系人"
+
+msgid "sync_ti_progress_9"
+msgstr "接受联系人"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "冲突"
+
+msgid "sync_ti_sync_error"
+msgstr "失败"
+
+msgid "sync_ti_today"
+msgstr "今天"
+
+msgid "sync_ti_updating"
+msgstr "更新"
+
+msgid "sync_ti_wizard"
+msgstr "传输与同步"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "蓝牙"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "日历"
+
+msgid "sync_ti_wizard_complete"
+msgstr "完成"
+
+msgid "sync_ti_wizard_content"
+msgstr "内容"
+
+msgid "sync_ti_wizard_method"
+msgstr "方法"
+
+msgid "sync_va_alarm"
+msgstr "闹铃冲突"
+
+msgid "sync_va_alarm2"
+msgstr "闹铃设置"
+
+msgid "sync_va_bluetooth"
+msgstr "蓝牙"
+
+msgid "sync_va_contacts"
+msgstr "联系人"
+
+msgid "sync_va_events_tasks"
+msgstr "日历事件和任务"
+
+msgid "sync_va_from"
+msgstr "从"
+
+msgid "sync_va_info_pcsuite"
+msgstr "设置可以通过电脑进行编辑"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "更新 %s"
+
+msgid "sync_va_method_receive"
+msgstr "检索"
+
+msgid "sync_va_method_send"
+msgstr "发送"
+
+msgid "sync_va_method_sync"
+msgstr "同步"
+
+msgid "sync_va_method_web"
+msgstr "更新"
+
+msgid "sync_va_newcalendar"
+msgstr "创建新日历"
+
+msgid "sync_va_no_conduits"
+msgstr "(无频道)"
+
+msgid "sync_va_noalarm"
+msgstr "没有闹铃"
+
+msgid "sync_va_norepeats"
+msgstr "不重复"
+
+msgid "sync_va_notes"
+msgstr "日历备忘"
+
+msgid "sync_va_pcsuite"
+msgstr "PC套件"
+
+msgid "sync_va_repeat"
+msgstr "重复冲突"
+
+msgid "sync_va_repeated"
+msgstr "重复"
+
+msgid "sync_va_to"
+msgstr "到"
+
+msgid "sync_va_use"
+msgstr "使用 '%s' 日历"
+
+msgid "sync_va_web"
+msgstr "网络"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(没有发现设备)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "此设备已用于另一途径"
