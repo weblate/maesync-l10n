@@ -1,0 +1,291 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2011-11-06 15:12+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "sync_ap_name"
+msgstr "انتقال و همسان سازی"
+
+msgid "sync_bd_method_retrieve"
+msgstr "بازیابی"
+
+msgid "sync_bd_method_send"
+msgstr "ارسال"
+
+msgid "sync_bd_method_sync"
+msgstr "همسان سازی"
+
+msgid "sync_bd_new"
+msgstr "جدید"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "انتخاب دستگاه"
+
+msgid "sync_fi_calendar_used"
+msgstr "تقویم"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "محتوی"
+
+msgid "sync_fi_device"
+msgstr "دستگاه"
+
+msgid "sync_fi_last_update"
+msgstr "آخرین آپدیت"
+
+msgid "sync_fi_method"
+msgstr "روش"
+
+msgid "sync_fi_note"
+msgstr "یادداشت"
+
+msgid "sync_fi_state_deleted"
+msgstr "حذف شد"
+
+msgid "sync_fi_state_edited"
+msgstr "ویرایش شد"
+
+msgid "sync_fi_time_unknown"
+msgstr "(زمان ناشناخته)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "بازیابی داده"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "ارسال داده"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "همسان سازی داده"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "تقویم مورد نظر را برای '%s' انتخاب کنید"
+
+msgid "sync_ia_content_to_keep"
+msgstr "اطلاعات ویرایش شده در هر دو دستگاه. انتخاب کنید کدام یک باقی بماند. در حال حاضر انتخاب پیش‌فرض نسخه‌ی جدیدتر است"
+
+msgid "sync_ia_wizard_calendartext"
+msgstr "دستگاه وجود چندین تقویم را پشتیبانی می‌کند. امکان ایجاد تقویم جدید و یا استفاده از تقویم موجود وجود دارد."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "تاریخ مورد نظر را برای ارسال انتخاب کنید"
+
+msgid "sync_ia_wizard_complete"
+msgstr "ویرایش این تنظیمات را می‌توانید از آدرس \" تنظیمات: انتقال و همسان سازی\" انجام دهید.برای لغو کردن ویرایش‌ها خارج از کادر را فشار دهید."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "داده را برای شامل شدن انتخاب کنید"
+
+msgid "sync_ia_wizard_intro"
+msgstr "این فرآیند به شما اجازه می‌دهد تا انتقال و یا همسان‌سازی با دستگاه های دیگر را انجام دهید.\n\nتوجه : از کامپیوتر برای همسان‌سازی پی‌سی‌سوئیت استفاده کنید."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "آیا میخواهید عملیات انتقال یا همسان‌سازی را انجام دهید؟"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr "دکمه \"پایان\" را برای ذخیره‌ی تنظیمات انتخاب کنید.یک کانال ایجاد و انتقال اطلاعات بی درنگ شروع خواهد شد"
+
+msgid "sync_ib_setting_failed"
+msgstr "امکان ذخیره‌ی تنظیمات وجود ندارد"
+
+msgid "sync_ic_calendar_content"
+msgstr "این کانال تنها حاوی مخاطب‌ها هست.تاریخی را برای اضافه کردن به این کانال انتخاب کنید"
+
+msgid "sync_ic_calendar_content_send"
+msgstr "این کانال تنها حاوی مخاطب ها هست.تاریخی را برای ارسال انتخاب کنید"
+
+msgid "sync_nc_error_retrieve"
+msgstr "برقراری دریافت پشتیبانی نمی‌شود.آیا می‌خواهید در عوض همسان سازی داده انجام شود؟\n\nداده از این دستگاه ارسال خواهد شد."
+
+msgid "sync_nc_error_send"
+msgstr "ارسال اطلاعات پشتیبانی نمی‌شود.آیا می‌خواهید در عوض همسان سازی داده انجام شود؟\n\nداده از دستگاه دیگر دریافت خواهد شد."
+
+msgid "sync_nc_import_web"
+msgstr "آیا می‌خواهید مشترک '%s شوید؟ .تقویم و کانال جدیدی ایجاد خواهد شد "
+
+msgid "sync_nc_remove_conduit"
+msgstr "کانال آیا می‌خواهید'%s' حذف شود ?\nهیچ داده‌ای حذف نخواهد شد"
+
+msgid "sync_ni_content_duplicate"
+msgstr "کانال مشابه در حال حاضر وجود دارد.\nامکان استفاده‌ی دوباره از یک پیکربندی موجود ، وجود ندارد."
+
+msgid "sync_ti_calendar_select"
+msgstr "انتقال و همسان سازی: تقویم را انتخاب کنید"
+
+msgid "sync_ti_canceled"
+msgstr "لغو شد"
+
+msgid "sync_ti_canceling"
+msgstr "در حال توقف"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "حل ناسازگاری"
+
+msgid "sync_ti_progress_1"
+msgstr "آغاز شد"
+
+msgid "sync_ti_progress_10"
+msgstr "در حال همسان‌سازی مخاطبین"
+
+msgid "sync_ti_progress_11"
+msgstr "در حال ارسال رخدادهای تقویم"
+
+msgid "sync_ti_progress_12"
+msgstr "در حال دریافت رخدادهای تقویم"
+
+msgid "sync_ti_progress_13"
+msgstr "در حال همسان‌سازی رخدادهای تقویم"
+
+msgid "sync_ti_progress_14"
+msgstr "در حال ارسال یادداشت‌ها"
+
+msgid "sync_ti_progress_15"
+msgstr "در حال دریافت یادداشت‌ها"
+
+msgid "sync_ti_progress_16"
+msgstr "در حال همسان سازی یادداشت‌ها"
+
+msgid "sync_ti_progress_17"
+msgstr "در حال نهایی شدن"
+
+msgid "sync_ti_progress_2"
+msgstr "در حال اتصال"
+
+msgid "sync_ti_progress_3"
+msgstr "متصل شد"
+
+msgid "sync_ti_progress_4"
+msgstr "راه اندازی"
+
+msgid "sync_ti_progress_5"
+msgstr "در حال ارسال"
+
+msgid "sync_ti_progress_6"
+msgstr "در حال دریافت"
+
+msgid "sync_ti_progress_7"
+msgstr "همسان‌سازی"
+
+msgid "sync_ti_progress_8"
+msgstr "در حال ارسال مخاطبین"
+
+msgid "sync_ti_progress_9"
+msgstr "در حال دریافت مخاطبین"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "ناسازگاری‌ها"
+
+msgid "sync_ti_sync_error"
+msgstr "با مشکل مواجه شد"
+
+msgid "sync_ti_today"
+msgstr "امروز"
+
+msgid "sync_ti_updating"
+msgstr "در حال بروزرسانی"
+
+msgid "sync_ti_wizard"
+msgstr "انتقال و همسان‌سازی"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "بلوتوث"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "تقویم"
+
+msgid "sync_ti_wizard_complete"
+msgstr "کامل شد"
+
+msgid "sync_ti_wizard_content"
+msgstr "محتوی"
+
+msgid "sync_ti_wizard_method"
+msgstr "روش"
+
+msgid "sync_va_alarm"
+msgstr "هشدار ناسازگاری"
+
+msgid "sync_va_alarm2"
+msgstr "قرار دادن هشدار"
+
+msgid "sync_va_bluetooth"
+msgstr "بلوتوث"
+
+msgid "sync_va_contacts"
+msgstr "مخاطبین"
+
+msgid "sync_va_events_tasks"
+msgstr "رخدادهای تقویم و وظایف"
+
+msgid "sync_va_from"
+msgstr "از"
+
+msgid "sync_va_info_pcsuite"
+msgstr "امکان ویرایش تنظیمات از طریق کامپیوتر وجود دارد"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "در حال بروزرسانی %s"
+
+msgid "sync_va_method_receive"
+msgstr "بازیابی"
+
+msgid "sync_va_method_send"
+msgstr "ارسال"
+
+msgid "sync_va_method_sync"
+msgstr "همسان سازی"
+
+msgid "sync_va_method_web"
+msgstr "بروزرسانی"
+
+msgid "sync_va_newcalendar"
+msgstr "ایجاد تقویم جدید"
+
+msgid "sync_va_no_conduits"
+msgstr "(هیچ کانالی وجود ندارد)"
+
+msgid "sync_va_noalarm"
+msgstr "بدون هشدار"
+
+msgid "sync_va_norepeats"
+msgstr "بدون تکرار"
+
+msgid "sync_va_notes"
+msgstr "یادداشت‌های تقویم"
+
+msgid "sync_va_pcsuite"
+msgstr "پی‌سی‌سوئیت"
+
+msgid "sync_va_repeat"
+msgstr "تکرار ناسازگاری"
+
+msgid "sync_va_repeated"
+msgstr "تکرار شده"
+
+msgid "sync_va_to"
+msgstr "تا"
+
+msgid "sync_va_use"
+msgstr "استفاده از '%s' تقویم"
+
+msgid "sync_va_web"
+msgstr "وب"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(هیچ دستگاهی انتخاب نشده است)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "این دستگاه هم اکنون برای کانال دیگری استفاده شده است."
