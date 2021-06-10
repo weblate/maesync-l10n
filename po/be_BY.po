@@ -1,0 +1,291 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2012-04-16 12:53+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "sync_ap_name"
+msgstr "Перадача і сінхранізацыя"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Атрымаць"
+
+msgid "sync_bd_method_send"
+msgstr "Даслаць"
+
+msgid "sync_bd_method_sync"
+msgstr "Сінхранізаваць"
+
+msgid "sync_bd_new"
+msgstr "Новы"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Абраць прыладу"
+
+msgid "sync_fi_calendar_used"
+msgstr "Каляндар"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Змест"
+
+msgid "sync_fi_device"
+msgstr "Дэвайс"
+
+msgid "sync_fi_last_update"
+msgstr "Апошняе абнаўленне"
+
+msgid "sync_fi_method"
+msgstr "Метад"
+
+msgid "sync_fi_note"
+msgstr "Нататка"
+
+msgid "sync_fi_state_deleted"
+msgstr "Выдалена"
+
+msgid "sync_fi_state_edited"
+msgstr "Рэдагавана"
+
+msgid "sync_fi_time_unknown"
+msgstr "(час невядомы)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Атрымаць дадзеныя"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Даслаць дадзеныя"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Сінхранізаваць дадзеныя"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Абярыце каляндар для '%s' дадзеных каляндара"
+
+msgid "sync_ia_content_to_keep"
+msgstr "Інфармацыя рэдагаваная на абодвух дэвайсах. Абярыце, якую версію захаваць. Абраная новая версія"
+
+msgid "sync_ia_wizard_calendartext"
+msgstr "Дэвайс падтрымлівае некалькі календароў. Магчыма стварыць новы календар або выкарыстаць існуючы."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Абярыце каляндар для дасылання"
+
+msgid "sync_ia_wizard_complete"
+msgstr "Вы можаце змяніць гэтую канфігурацыю праз 'Налады: Перадача і сінхранізацыя'. Адмоўцеся ад налады, націснуўшы за межамі майстра."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Выбярыце дадзеныя для ўключэння"
+
+msgid "sync_ia_wizard_intro"
+msgstr "Гэты майстар дазваляе наладзіць перадачу або сінхранізацыю з іншымі дэвайсамі.\n\nУВАГА: Выкарыстайце камп'ютар для сінхранізацыі PC Suite."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Перадаць або сінхранізаваць?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr "Націсніце 'Гатова' для захавання налад. Канал будзе створаны, і дадзеныя пачнуць перадавацца адразу."
+
+msgid "sync_ib_setting_failed"
+msgstr "Немагчыма захаваць налады"
+
+msgid "sync_ic_calendar_content"
+msgstr "Гэты канал змяшчае толькі кантакты. Абярыце каляндар, каб дадаць да яго."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Гэты канал змяшчае толькі кантакты. Абярыце каляндар для адпраўкі."
+
+msgid "sync_nc_error_retrieve"
+msgstr "Атрыманне не падтрымліваецца. Сінхранізаваць дадзеныя замест гэтага? \n\nДадзеныя дэвайса будуць адпраўленыя."
+
+msgid "sync_nc_error_send"
+msgstr "Дасыланне  не падтрымліваецца. Сінхранізаваць дадзеныя замест гэтага? \n\nДадзеныя дэвайса будуць адпраўленыя."
+
+msgid "sync_nc_import_web"
+msgstr "Падпісацца на '%s'? Будзе створаны новы канал і каляндар."
+
+msgid "sync_nc_remove_conduit"
+msgstr "Выдаліць канал '%s'? \nДадзеныя выдаленыя не будуць. "
+
+msgid "sync_ni_content_duplicate"
+msgstr "Падобны канал ужо існуе. \nНемагчыма выкарыстоўваць аднолькавую канфігурацыю двойчы."
+
+msgid "sync_ti_calendar_select"
+msgstr "Перадача і сінхранізацыя: Абярыце каляндар"
+
+msgid "sync_ti_canceled"
+msgstr "Скасавана"
+
+msgid "sync_ti_canceling"
+msgstr "Спыненне"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Дазвол на канфлікты"
+
+msgid "sync_ti_progress_1"
+msgstr "Пачатак"
+
+msgid "sync_ti_progress_10"
+msgstr "Сінхранізацыя кантактаў"
+
+msgid "sync_ti_progress_11"
+msgstr "Перадача запісаў каляндара"
+
+msgid "sync_ti_progress_12"
+msgstr "Атрыманне запісаў каляндара"
+
+msgid "sync_ti_progress_13"
+msgstr "Сінхранізаванне запісаў каляндара"
+
+msgid "sync_ti_progress_14"
+msgstr "Дасыланне нататак"
+
+msgid "sync_ti_progress_15"
+msgstr "Атрыманне нататак"
+
+msgid "sync_ti_progress_16"
+msgstr "Сінхранізаванне нататак"
+
+msgid "sync_ti_progress_17"
+msgstr "Заканчэнне"
+
+msgid "sync_ti_progress_2"
+msgstr "Падлучэнне"
+
+msgid "sync_ti_progress_3"
+msgstr "Падлучана"
+
+msgid "sync_ti_progress_4"
+msgstr "Ініцыялізацыя"
+
+msgid "sync_ti_progress_5"
+msgstr "Дасыланне"
+
+msgid "sync_ti_progress_6"
+msgstr "Атрыманне"
+
+msgid "sync_ti_progress_7"
+msgstr "Сінхранізаванне"
+
+msgid "sync_ti_progress_8"
+msgstr "Дасыланне кантактаў"
+
+msgid "sync_ti_progress_9"
+msgstr "Атрыманне кантактаў"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Канфлікты"
+
+msgid "sync_ti_sync_error"
+msgstr "Няўдача"
+
+msgid "sync_ti_today"
+msgstr "Сёння"
+
+msgid "sync_ti_updating"
+msgstr "Абнаўленне"
+
+msgid "sync_ti_wizard"
+msgstr "Перадача і сінхранізацыя"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Каляндар"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Завершана"
+
+msgid "sync_ti_wizard_content"
+msgstr "Змест"
+
+msgid "sync_ti_wizard_method"
+msgstr "Метад"
+
+msgid "sync_va_alarm"
+msgstr "Канфлікт будзільніка"
+
+msgid "sync_va_alarm2"
+msgstr "Усталёўка будзільніка"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Кантакты"
+
+msgid "sync_va_events_tasks"
+msgstr "Каляндарныя падзеі і задачы"
+
+msgid "sync_va_from"
+msgstr "Ад"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Налады могуць быць змененыя праз камп'ютар"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Абнаўленне %s"
+
+msgid "sync_va_method_receive"
+msgstr "Атрымаць"
+
+msgid "sync_va_method_send"
+msgstr "Даслаць"
+
+msgid "sync_va_method_sync"
+msgstr "Сінхранізаваць"
+
+msgid "sync_va_method_web"
+msgstr "Абнавіць"
+
+msgid "sync_va_newcalendar"
+msgstr "Стварыць новы каляндар"
+
+msgid "sync_va_no_conduits"
+msgstr "(няма каналаў)"
+
+msgid "sync_va_noalarm"
+msgstr "Няма будзільніка"
+
+msgid "sync_va_norepeats"
+msgstr "Няма паўтораў"
+
+msgid "sync_va_notes"
+msgstr "Каляндарныя нататкі"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Канфлікт паўтораў"
+
+msgid "sync_va_repeated"
+msgstr "Паўтор"
+
+msgid "sync_va_to"
+msgstr "Да"
+
+msgid "sync_va_use"
+msgstr "Выкарыстоўвайце '%s' каляндар"
+
+msgid "sync_va_web"
+msgstr "Сеціва"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(няма абраных дэвайсаў)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Гэты дэвайс ужо выкарыстоўваецца іншым каналам"
