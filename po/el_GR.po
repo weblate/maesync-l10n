@@ -1,0 +1,291 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "sync_ap_name"
+msgstr "Μεταφορά και συγχρονισμός"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Λήψη"
+
+msgid "sync_bd_method_send"
+msgstr "Αποστολή"
+
+msgid "sync_bd_method_sync"
+msgstr "Συγχρονισμός"
+
+msgid "sync_bd_new"
+msgstr "Νέο"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Επιλέξτε συσκευή"
+
+msgid "sync_fi_calendar_used"
+msgstr "Ημερολόγιο"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Περιεχόμενο"
+
+msgid "sync_fi_device"
+msgstr "Συσκευή"
+
+msgid "sync_fi_last_update"
+msgstr "Τελευταία ενημέρωση"
+
+msgid "sync_fi_method"
+msgstr "Μέθοδος"
+
+msgid "sync_fi_note"
+msgstr "Σημείωση"
+
+msgid "sync_fi_state_deleted"
+msgstr "Διαγράφηκε"
+
+msgid "sync_fi_state_edited"
+msgstr "Επεξεργάστηκε"
+
+msgid "sync_fi_time_unknown"
+msgstr "(άγνωστη ώρα)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Λήψη δεδομένων"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Αποστολή δεδομένων"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Συγχρονισμός δεδομένων"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Επιλέξτε ημερολόγιο για '%s' δεδομένα"
+
+msgid "sync_ia_content_to_keep"
+msgstr "Επεξεργασμένες πληροφορίες και στις 2 συσκευές. Επιλέξτε ποια έκδοση θα διατηρηθεί. Η πιο πρόσφατη επιλέχθηκε."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr "Η συσκευή υποστηρίζει πολλαπλά ημερολόγια. Υπάρχει η δυνατότητα να δημιουργήσετε νέο ή να χρησιμοποιήσετε υπάρχον ημερολόγιο."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Επιλέξτε ημερολόγιο για αποστολή"
+
+msgid "sync_ia_wizard_complete"
+msgstr "Μπορείτε να επεξεργαστείτε αυτή τη ρύθμιση επιλέγοντας 'Ρυθμίσεις: Μεταφορά & Συγχρονισμός'. Απορρίψτε τις ρυθμίσεις πατώντας έξω από τον οδηγό."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Επιλέξτε δεδομένα για να περιληφθούν"
+
+msgid "sync_ia_wizard_intro"
+msgstr "Αυτός ο οδηγός σας επιτρέπει να ξεκινήσετε μία διαδικασία μεταφοράς ή συγχρονισμού με άλλες συσκευές.\n\nΣημείωση: Χρησιμοποιήστε Η/Υ για συγχρονισμό με το PC Suite."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Μεταφορά ή συγχρονισμός;"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr "Επιλέξτε 'Τέλος' για να αποθηκεύσετε τις ρυθμίσεις. Θα δημιουργηθεί ένα κανάλι και τα δεδομένα θα ξεκινήσουν να μεταφέρονται αμέσως."
+
+msgid "sync_ib_setting_failed"
+msgstr "Αδυναμία αποθήκευσης των ρυθμίσεων"
+
+msgid "sync_ic_calendar_content"
+msgstr "Αυτό το κανάλι περιλαμβάνει μόνο επαφές. Επιλέξτε ένα ημερολόγιο για να το προσθέσετε σε αυτό."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Αυτό το κανάλι περιλαμβάνει μόνο επαφές. Επιλέξτε ημερολόγιο για αποστολή."
+
+msgid "sync_nc_error_retrieve"
+msgstr "Λήψη δεδομένων δεν υποστηρίζεται. Συγχρονισμός παρ' όλα αυτά;\n\nΤα δεδομένα από αυτή τη συσκευή θα αποσταλούν."
+
+msgid "sync_nc_error_send"
+msgstr "Η αποστολή δεν υποστηρίζεται. Συγχρονισμός παρ' όλα αυτά;\n\nΤα δεδομένα από την άλλη συσκευή θα προστεθούν."
+
+msgid "sync_nc_import_web"
+msgstr "Εγγραφή στο '%s'; Νέο ημερολόγιο και κανάλι θα δημιουργηθούν."
+
+msgid "sync_nc_remove_conduit"
+msgstr "Διαγραφή καναλιού '%s';\nΔεν υπάρχουν δεδομένα προς διαγραφή."
+
+msgid "sync_ni_content_duplicate"
+msgstr "Παρόμοιο κανάλι ήδη υπάρχει.\nΑδυναμία χρήσης των ίδιων ρυθμίσεων δύο φορές."
+
+msgid "sync_ti_calendar_select"
+msgstr "Μεταφορά & Συγχρονισμός: Επιλέξτε ημερολόγιο"
+
+msgid "sync_ti_canceled"
+msgstr "Ακυρώθηκε"
+
+msgid "sync_ti_canceling"
+msgstr "Διακοπή"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Μη συμβατή ανάλυση"
+
+msgid "sync_ti_progress_1"
+msgstr "Ξεκίνησε"
+
+msgid "sync_ti_progress_10"
+msgstr "Συγχρονισμός επαφών"
+
+msgid "sync_ti_progress_11"
+msgstr "Αποστολή πεδίων ημερολογίου"
+
+msgid "sync_ti_progress_12"
+msgstr "Λήψη πεδίων ημερολογίου"
+
+msgid "sync_ti_progress_13"
+msgstr "Συγχρονισμός πεδίων ημερολογίου"
+
+msgid "sync_ti_progress_14"
+msgstr "Αποστολή σημειώσεων"
+
+msgid "sync_ti_progress_15"
+msgstr "Λήψη σημειώσεων"
+
+msgid "sync_ti_progress_16"
+msgstr "Συγχρονισμός σημειώσεων"
+
+msgid "sync_ti_progress_17"
+msgstr "Ολοκλήρωση"
+
+msgid "sync_ti_progress_2"
+msgstr "Σύνδεση"
+
+msgid "sync_ti_progress_3"
+msgstr "Συνδέθηκε"
+
+msgid "sync_ti_progress_4"
+msgstr "Επεξεργασία"
+
+msgid "sync_ti_progress_5"
+msgstr "Αποστολή"
+
+msgid "sync_ti_progress_6"
+msgstr "Λήψη"
+
+msgid "sync_ti_progress_7"
+msgstr "Συγχρονισμός"
+
+msgid "sync_ti_progress_8"
+msgstr "Αποστολή επαφών"
+
+msgid "sync_ti_progress_9"
+msgstr "Λήψη επαφών"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Ασυμβατότητες"
+
+msgid "sync_ti_sync_error"
+msgstr "Απέτυχε"
+
+msgid "sync_ti_today"
+msgstr "Σήμερα"
+
+msgid "sync_ti_updating"
+msgstr "Ενημέρωση"
+
+msgid "sync_ti_wizard"
+msgstr "Μεταφορά & συγχρονισμός"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Ημερολόγιο"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Ολοκλήρωση"
+
+msgid "sync_ti_wizard_content"
+msgstr "Περιεχόμενο"
+
+msgid "sync_ti_wizard_method"
+msgstr "Μέθοδος"
+
+msgid "sync_va_alarm"
+msgstr "Μη συμβατή ειδοποίηση"
+
+msgid "sync_va_alarm2"
+msgstr "Η ειδοποίηση ρυθμίστηκε"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Επαφές"
+
+msgid "sync_va_events_tasks"
+msgstr "Γεγονότα και εργασίες ημερολογίου"
+
+msgid "sync_va_from"
+msgstr "Από"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Οι ρυθμίσεις μπορούν να επεξεργαστούν μέσω Η/Υ"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Ενημέρωση %s"
+
+msgid "sync_va_method_receive"
+msgstr "Λήψη"
+
+msgid "sync_va_method_send"
+msgstr "Αποστολή"
+
+msgid "sync_va_method_sync"
+msgstr "Συγχρονισμός"
+
+msgid "sync_va_method_web"
+msgstr "Ενημέρωση"
+
+msgid "sync_va_newcalendar"
+msgstr "Δημιουργία νέου ημερολογίου"
+
+msgid "sync_va_no_conduits"
+msgstr "(δεν υπάρχουν κανάλια)"
+
+msgid "sync_va_noalarm"
+msgstr "Χωρίς ειδοποίηση"
+
+msgid "sync_va_norepeats"
+msgstr "Δεν επαναλήφθηκε"
+
+msgid "sync_va_notes"
+msgstr "Σημειώσεις ημερολογίου"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Μη συμβατή επανάληψη"
+
+msgid "sync_va_repeated"
+msgstr "Επαναλήφθηκε"
+
+msgid "sync_va_to"
+msgstr "Σε"
+
+msgid "sync_va_use"
+msgstr "Χρήση του ημερολογίου '%s'"
+
+msgid "sync_va_web"
+msgstr "Ιστός"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(δεν επιλέχθηκε συσκευή)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Αυτή η συσκευή χρησιμοποιείται ήδη από άλλο κανάλι"
