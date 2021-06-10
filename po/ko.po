@@ -1,0 +1,291 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "sync_ap_name"
+msgstr "전송 및 동기화"
+
+msgid "sync_bd_method_retrieve"
+msgstr "받기"
+
+msgid "sync_bd_method_send"
+msgstr "보내기"
+
+msgid "sync_bd_method_sync"
+msgstr "동기화"
+
+msgid "sync_bd_new"
+msgstr "새로 만들기"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "장치 선택"
+
+msgid "sync_fi_calendar_used"
+msgstr "달력"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "컨텐츠"
+
+msgid "sync_fi_device"
+msgstr "장치"
+
+msgid "sync_fi_last_update"
+msgstr "마지막 업데이트"
+
+msgid "sync_fi_method"
+msgstr "방법"
+
+msgid "sync_fi_note"
+msgstr "노트"
+
+msgid "sync_fi_state_deleted"
+msgstr "삭제됨"
+
+msgid "sync_fi_state_edited"
+msgstr "수정됨"
+
+msgid "sync_fi_time_unknown"
+msgstr "(시간 알 수 없음)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "자료 받기"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "자료 보내기"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "자료 동기화"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "'%s' 달력 자료를 위한 달력을 선택해주세요"
+
+msgid "sync_ia_content_to_keep"
+msgstr "양쪽 장치에서 정보가 수정되었습니다. 어느쪽을 남겨둘지 선택해주세요. 최신 버전이 선택되었습니다."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr "장치가 다중 달력을 지원합니다. 새로운 달력을 만들거나 기존 달력을 사용하는 것이 가능합니다."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "보낼 달력을 선택해주세요"
+
+msgid "sync_ia_wizard_complete"
+msgstr "이 설정을 '설정: 전송 및 동기화'를 통하여 편집할 수 있습니다. 설정을 취소하려면 설정창 바깥쪽을 탭해주시기 바랍니다."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "포함할 자료를 선택해주세요"
+
+msgid "sync_ia_wizard_intro"
+msgstr "이 설정창은 다른 장치와의 전송 혹은 동기화 과정을 설정할 수 있도록 합니다.\n\n알림: PC Suite 동기화를 위해서 PC를 사용해주세요."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "전송 혹은 동기화를 할까요?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr "'완료'를 탭하여 설정을 저장하시기 바랍니다. 채널이 생성되고 즉시 전송될 것입니다."
+
+msgid "sync_ib_setting_failed"
+msgstr "설정을 저장할 수 없습니다"
+
+msgid "sync_ic_calendar_content"
+msgstr "이 채널은 연락처만 포함하고 있습니다. 달력을 선택하여 추가해주시기 바랍니다."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "이 채널은 연락처만 포함하고 있습니다. 보낼 달력을 선택하시기 바랍니다."
+
+msgid "sync_nc_error_retrieve"
+msgstr "자료 받기가 지원되지 않습니다. 대신에 자료 동기화를 하시겠습니까?\n\n이 장치의 자료가 전송될 것입니다."
+
+msgid "sync_nc_error_send"
+msgstr "자료 보내기가 지원되지 않습니다. 대신에 자료 동기화를 하시겠습니까?\n\n다른 장치로부터의 자료가 추가될 것입니다."
+
+msgid "sync_nc_import_web"
+msgstr "'%s' 을 구독하시겠습니까? 새로운 달력 및 채널이 생성될 것입니다."
+
+msgid "sync_nc_remove_conduit"
+msgstr "'%s' 채널을 삭제하시겠습니까?\n데이터는 삭제되지 않을 것입니다. "
+
+msgid "sync_ni_content_duplicate"
+msgstr "비슷한 채널이 이미 존재합니다.\n똑같은 설정을 두 번 사용할 수 없습니다."
+
+msgid "sync_ti_calendar_select"
+msgstr "전송 및 동기화: 달력 선택"
+
+msgid "sync_ti_canceled"
+msgstr "취소됨"
+
+msgid "sync_ti_canceling"
+msgstr "중지 중"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "해상도 충돌"
+
+msgid "sync_ti_progress_1"
+msgstr "시작됨"
+
+msgid "sync_ti_progress_10"
+msgstr "연락처 동기화"
+
+msgid "sync_ti_progress_11"
+msgstr "달력 입력 보내는 중"
+
+msgid "sync_ti_progress_12"
+msgstr "달력 입력 받는 중"
+
+msgid "sync_ti_progress_13"
+msgstr "달력 입력 동기화 중"
+
+msgid "sync_ti_progress_14"
+msgstr "노트 보내는 중"
+
+msgid "sync_ti_progress_15"
+msgstr "노트 받는 중"
+
+msgid "sync_ti_progress_16"
+msgstr "노트 동기화 중"
+
+msgid "sync_ti_progress_17"
+msgstr "완료 중"
+
+msgid "sync_ti_progress_2"
+msgstr "접속 중"
+
+msgid "sync_ti_progress_3"
+msgstr "접속됨"
+
+msgid "sync_ti_progress_4"
+msgstr "초기화 중"
+
+msgid "sync_ti_progress_5"
+msgstr "보내는 중"
+
+msgid "sync_ti_progress_6"
+msgstr "받는 중"
+
+msgid "sync_ti_progress_7"
+msgstr "동기화 중"
+
+msgid "sync_ti_progress_8"
+msgstr "연락처 보내는 중"
+
+msgid "sync_ti_progress_9"
+msgstr "연락처 받는 중"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "충돌"
+
+msgid "sync_ti_sync_error"
+msgstr "실패함"
+
+msgid "sync_ti_today"
+msgstr "오늘"
+
+msgid "sync_ti_updating"
+msgstr "업데이트 중"
+
+msgid "sync_ti_wizard"
+msgstr "전송 및 동기화"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "블루투스"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "달력"
+
+msgid "sync_ti_wizard_complete"
+msgstr "완료됨"
+
+msgid "sync_ti_wizard_content"
+msgstr "컨텐츠"
+
+msgid "sync_ti_wizard_method"
+msgstr "방법"
+
+msgid "sync_va_alarm"
+msgstr "알람 충돌"
+
+msgid "sync_va_alarm2"
+msgstr "알람 설정"
+
+msgid "sync_va_bluetooth"
+msgstr "블루투스"
+
+msgid "sync_va_contacts"
+msgstr "연락처"
+
+msgid "sync_va_events_tasks"
+msgstr "달력 이벤트 및 할 일"
+
+msgid "sync_va_from"
+msgstr "발신"
+
+msgid "sync_va_info_pcsuite"
+msgstr "컴퓨터를 통하여 설정을 편집할 수 있습니다"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "%s 을 업데이트 중"
+
+msgid "sync_va_method_receive"
+msgstr "받기"
+
+msgid "sync_va_method_send"
+msgstr "보내기"
+
+msgid "sync_va_method_sync"
+msgstr "동기화"
+
+msgid "sync_va_method_web"
+msgstr "업데이트"
+
+msgid "sync_va_newcalendar"
+msgstr "새로운 달력 만들기"
+
+msgid "sync_va_no_conduits"
+msgstr "(채널 없음)"
+
+msgid "sync_va_noalarm"
+msgstr "알람 없음"
+
+msgid "sync_va_norepeats"
+msgstr "반복되지 않음"
+
+msgid "sync_va_notes"
+msgstr "달력 노트"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "반복 충돌"
+
+msgid "sync_va_repeated"
+msgstr "반복됨"
+
+msgid "sync_va_to"
+msgstr "수신"
+
+msgid "sync_va_use"
+msgstr "'%s' 달력 사용"
+
+msgid "sync_va_web"
+msgstr "웹"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(장치 선택되지 않음)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "이 장치는 이미 다른 채널에서 사용 중입니다"
