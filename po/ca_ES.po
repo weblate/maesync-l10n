@@ -1,0 +1,292 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "sync_ap_name"
+msgstr "Transfereix i sincronitza"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Recupera"
+
+msgid "sync_bd_method_send"
+msgstr "Envia"
+
+msgid "sync_bd_method_sync"
+msgstr "Sincronitza"
+
+msgid "sync_bd_new"
+msgstr "Nou"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Tria de dispositiu"
+
+msgid "sync_fi_calendar_used"
+msgstr "Calendari"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Contingut"
+
+msgid "sync_fi_device"
+msgstr "Dispositiu"
+
+msgid "sync_fi_last_update"
+msgstr "Darrera actualització"
+
+msgid "sync_fi_method"
+msgstr "Métode"
+
+msgid "sync_fi_note"
+msgstr "Nota"
+
+msgid "sync_fi_state_deleted"
+msgstr "Esborrat"
+
+msgid "sync_fi_state_edited"
+msgstr "Editat"
+
+msgid "sync_fi_time_unknown"
+msgstr "(hora desconeguda)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Recupera les dades"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Envia les dades"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Sincronitza les dades"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Trieu el calendari per dades del calendari '%s'"
+
+msgid "sync_ia_content_to_keep"
+msgstr "Informació editada en els dos dispositius. Trieu amb quina versió s'ha de quedar. La versió mes nova s'ha seleccionat."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr "El dispositiu permet múltiples calendaris. Es pot crear un de nou o fer-ne servir un d'existent."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Trieu el calendari per enviar"
+
+msgid "sync_ia_wizard_complete"
+msgstr "Es pot editar la configuració via Preferències: Transfereix i sincronitza. Descarteu les preferències tocant fora de l'auxiliar."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Trieu les dades a incloure"
+
+msgid "sync_ia_wizard_intro"
+msgstr "Aquest auxiliar permet configurar el procés de transferència o sincronització amb altres dispositius.\n\nNOTA: Utilitzeu l'ordinador per sincronitzar amb el PC Suite."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Es transfereix o sincronitza?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr "Toqueu 'Finalitza' per desar els canvis. Es crearà un canal i es transferiran dades immediatament."
+
+msgid "sync_ib_setting_failed"
+msgstr "No s'han pogut desar les preferències"
+
+msgid "sync_ic_calendar_content"
+msgstr "Aquest canal només inclou contactes. Trieu un calendari per afegir-lo."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Aquest canal només inclou contactes. Trieu un calendari per enviar."
+
+msgid "sync_nc_error_retrieve"
+msgstr "No es pot recuperar (no permès). Se sincronitzen les dades?\n\nS'enviaran les dades d'aquest dispositiu."
+
+msgid "sync_nc_error_send"
+msgstr "No es pot enviar (no permès). se sincronitzen les dades?\n\nS'enviaran les dades d'aquest dispositiu."
+
+msgid "sync_nc_import_web"
+msgstr "Se subscriu a '%s'? Es crearà un nou calendari i canal."
+
+msgid "sync_nc_remove_conduit"
+msgstr "S'esborra el canal '%s'?\nNo s'esborraran dades."
+
+msgid "sync_ni_content_duplicate"
+msgstr "Ja existeix un canal similar.\nNo es pot utilitzar la mateixa configuració dues vegades."
+
+msgid "sync_ti_calendar_select"
+msgstr "Transfereix i sincronitza: Tria de calendari"
+
+msgid "sync_ti_canceled"
+msgstr "Cancel·lat"
+
+msgid "sync_ti_canceling"
+msgstr "S'està aturant"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Resolució de conflictes"
+
+msgid "sync_ti_progress_1"
+msgstr "Iniciada"
+
+msgid "sync_ti_progress_10"
+msgstr "Sincronitzant contactes"
+
+msgid "sync_ti_progress_11"
+msgstr "Enviant entrades de calendari"
+
+msgid "sync_ti_progress_12"
+msgstr "Rebent entrades de calendari"
+
+msgid "sync_ti_progress_13"
+msgstr "Sincronitzant entrades de calendari"
+
+msgid "sync_ti_progress_14"
+msgstr "Enviant les notes"
+
+msgid "sync_ti_progress_15"
+msgstr "Recuperant les notes"
+
+msgid "sync_ti_progress_16"
+msgstr "Sincronitzant les notes"
+
+msgid "sync_ti_progress_17"
+msgstr "Finalitzant"
+
+msgid "sync_ti_progress_2"
+msgstr "Connectant"
+
+msgid "sync_ti_progress_3"
+msgstr "Connectat"
+
+msgid "sync_ti_progress_4"
+msgstr "Inicialitzant"
+
+msgid "sync_ti_progress_5"
+msgstr "Enviant"
+
+msgid "sync_ti_progress_6"
+msgstr "Recuperant"
+
+msgid "sync_ti_progress_7"
+msgstr "Sincronitzant"
+
+msgid "sync_ti_progress_8"
+msgstr "Enviant contactes"
+
+msgid "sync_ti_progress_9"
+msgstr "Recuperant contactes"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Conflictes"
+
+msgid "sync_ti_sync_error"
+msgstr "Fallada"
+
+msgid "sync_ti_today"
+msgstr "Avui"
+
+msgid "sync_ti_updating"
+msgstr "S'està actualitzant"
+
+msgid "sync_ti_wizard"
+msgstr "Transfereix i sincronitza"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Calendari"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Complet"
+
+msgid "sync_ti_wizard_content"
+msgstr "Contingut"
+
+msgid "sync_ti_wizard_method"
+msgstr "Mètode"
+
+msgid "sync_va_alarm"
+msgstr "Conflicte d'alarmes"
+
+msgid "sync_va_alarm2"
+msgstr "Defineix l'alarma"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Contactes"
+
+msgid "sync_va_events_tasks"
+msgstr "Cites i tasques del calendari"
+
+msgid "sync_va_from"
+msgstr "De"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Es poden editar les preferències amb l'ordinador"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "S'actualitza %s"
+
+msgid "sync_va_method_receive"
+msgstr "Recupera"
+
+msgid "sync_va_method_send"
+msgstr "Envia"
+
+msgid "sync_va_method_sync"
+msgstr "Sincronitza"
+
+msgid "sync_va_method_web"
+msgstr "Actualitza"
+
+msgid "sync_va_newcalendar"
+msgstr "Crea un nou calendari"
+
+msgid "sync_va_no_conduits"
+msgstr "(no hi ha canals)"
+
+msgid "sync_va_noalarm"
+msgstr "No hi ha alarma"
+
+msgid "sync_va_norepeats"
+msgstr "Not es repeteix"
+
+msgid "sync_va_notes"
+msgstr "Notes de calendari"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Conflicte repetit"
+
+msgid "sync_va_repeated"
+msgstr "Repetit"
+
+msgid "sync_va_to"
+msgstr "A"
+
+msgid "sync_va_use"
+msgstr "Utilitza el calendari '%s'"
+
+msgid "sync_va_web"
+msgstr "Web"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(no s'han triat dispositius)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Aquest dispositiu ja s'utilitza en un altre canal"
