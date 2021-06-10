@@ -1,0 +1,292 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2012-02-07 10:19+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "sync_ap_name"
+msgstr "Trosglwyddo a chydamseru"
+
+msgid "sync_bd_method_retrieve"
+msgstr "Nôl"
+
+msgid "sync_bd_method_send"
+msgstr "Gyrru"
+
+msgid "sync_bd_method_sync"
+msgstr "Cydamseru"
+
+msgid "sync_bd_new"
+msgstr "Newydd"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "Dewis dyfais"
+
+msgid "sync_fi_calendar_used"
+msgstr "Calendr"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "Cynnwys"
+
+msgid "sync_fi_device"
+msgstr "Dyfais"
+
+msgid "sync_fi_last_update"
+msgstr "Diweddariad diwethaf"
+
+msgid "sync_fi_method"
+msgstr "Dull"
+
+msgid "sync_fi_note"
+msgstr "Nodyn"
+
+msgid "sync_fi_state_deleted"
+msgstr "Dileuwyd"
+
+msgid "sync_fi_state_edited"
+msgstr "Golygwyd"
+
+msgid "sync_fi_time_unknown"
+msgstr "(amser anhysbys)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "Nôl data"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "Gyrru data"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "Cydamseru data"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "Dewis calendr ar gyfer data calendr '%s'"
+
+msgid "sync_ia_content_to_keep"
+msgstr "Gwybodaeth wedi ei olygu ar y ddwy dyfais. Dewiswch fersiwn i'w gadw. Amlygwyd y fersiwn newyddaf."
+
+msgid "sync_ia_wizard_calendartext"
+msgstr "Mae'r dyfais yn cynnal mwy nag un calendr. Mae modd creu calendr newydd neu defnyddio un sydd eisoes yn bodoli."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "Dewis calendr i'w anfon"
+
+msgid "sync_ia_wizard_complete"
+msgstr "Gallwch olygu'r ffurfweddiad yma drwy 'Gosodiadau: Trosglwyddo a chydamseru'. Gwaredwch a'r gosodiadau drwy daro y tu allan i'r dewin."
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "Dewiswch ddata i'w gynnwys"
+
+msgid "sync_ia_wizard_intro"
+msgstr "Mae'r dewin yma'n eich galluogi i sefydlu proses trosglwyddo neu gydamseru gyda dyfeisiau eraill. SYLWER: Defnyddiwch PC ar gyfer cydamseru PC Suite."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "Trosglwyddo neu gydamseru?"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr "Tarwch 'Gorffen' i gadw'r gosodiadau. Ffurfir sianel a bydd data'n dechrau trosglwyddo ar unwaith."
+
+msgid "sync_ib_setting_failed"
+msgstr "Methu cadw'r gosodiadau"
+
+msgid "sync_ic_calendar_content"
+msgstr "Dim ond cysylltiadau mae'r sianel yn ei gynnwys. Dewiswch galendr i'w ychwanegu."
+
+msgid "sync_ic_calendar_content_send"
+msgstr "Dim ond cysylltiadau mae'r sianel yn ei gynnwys. Dewiswch galendr i'w anfon."
+
+msgid "sync_nc_error_retrieve"
+msgstr "Ni gynhelir nôl data. Cydamseru data fel arall? Anfonir data o'r dyfais yma."
+
+msgid "sync_nc_error_send"
+msgstr "Ni gynhelir anfon data. Cydamseru data fel arall? Fe ychwanegir data o'r dyfais arall."
+
+msgid "sync_nc_import_web"
+msgstr "Tanysgrifio i '%s'? Fe ffurfir calendr a sianel newydd."
+
+msgid "sync_nc_remove_conduit"
+msgstr "Dileu sianel '%s'? Ni ddilëir data."
+
+msgid "sync_ni_content_duplicate"
+msgstr "Sianel debyg eisoes yn bodoli. Methu defnyddio'r un ffurfweddiad ddwywaith."
+
+msgid "sync_ti_calendar_select"
+msgstr "Trosgl. a chyd: Dewis calendr"
+
+msgid "sync_ti_canceled"
+msgstr "Ataliwyd"
+
+msgid "sync_ti_canceling"
+msgstr "Yn atal"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "Datrys gwrthdrawiadau"
+
+msgid "sync_ti_progress_1"
+msgstr "Wedi dechrau"
+
+msgid "sync_ti_progress_10"
+msgstr "Cydamseru cysylltiadau"
+
+msgid "sync_ti_progress_11"
+msgstr "Gyrru cofnodion calendr"
+
+msgid "sync_ti_progress_12"
+msgstr "Derbyn cofnodion calendr"
+
+msgid "sync_ti_progress_13"
+msgstr "Cydamseru cofnodion calendr"
+
+msgid "sync_ti_progress_14"
+msgstr "Gyrru nodiadau"
+
+msgid "sync_ti_progress_15"
+msgstr "Derbyn nodiadau"
+
+msgid "sync_ti_progress_16"
+msgstr "Cydamseru nodiadau"
+
+msgid "sync_ti_progress_17"
+msgstr "Yn gorffen"
+
+msgid "sync_ti_progress_2"
+msgstr "Cysylltu"
+
+msgid "sync_ti_progress_3"
+msgstr "Wedi cysylltu"
+
+msgid "sync_ti_progress_4"
+msgstr "Yn dechrau"
+
+msgid "sync_ti_progress_5"
+msgstr "Gyrru"
+
+msgid "sync_ti_progress_6"
+msgstr "Derbyn"
+
+msgid "sync_ti_progress_7"
+msgstr "Cydamseru"
+
+msgid "sync_ti_progress_8"
+msgstr "Gyrru "
+
+msgid "sync_ti_progress_9"
+msgstr "Derbyn cysylltiadau"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "Gwrthdrawiadau"
+
+msgid "sync_ti_sync_error"
+msgstr "Wedi methu"
+
+msgid "sync_ti_today"
+msgstr "Heddiw"
+
+msgid "sync_ti_updating"
+msgstr "Diweddaru"
+
+msgid "sync_ti_wizard"
+msgstr "Trosglwyddo a chydamseru"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "Calendr"
+
+msgid "sync_ti_wizard_complete"
+msgstr "Wedi gorffen"
+
+msgid "sync_ti_wizard_content"
+msgstr "Cynnwys"
+
+msgid "sync_ti_wizard_method"
+msgstr "Dull"
+
+msgid "sync_va_alarm"
+msgstr "Gwrthdrawiad larwm"
+
+msgid "sync_va_alarm2"
+msgstr "Gosod larwm"
+
+msgid "sync_va_bluetooth"
+msgstr "Bluetooth"
+
+msgid "sync_va_contacts"
+msgstr "Cysylltiadau"
+
+msgid "sync_va_events_tasks"
+msgstr "Calendr digwyddiadau a thasgau"
+
+msgid "sync_va_from"
+msgstr "O"
+
+msgid "sync_va_info_pcsuite"
+msgstr "Mae modd golygu gosodiadau drwy'ch cyfrifiadur"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "Yn diweddaru %s"
+
+msgid "sync_va_method_receive"
+msgstr "Nôl"
+
+msgid "sync_va_method_send"
+msgstr "Anfon"
+
+msgid "sync_va_method_sync"
+msgstr "Cydamseru"
+
+msgid "sync_va_method_web"
+msgstr "Diweddaru"
+
+msgid "sync_va_newcalendar"
+msgstr "Creu calendr newydd"
+
+msgid "sync_va_no_conduits"
+msgstr "(dim sianel)"
+
+msgid "sync_va_noalarm"
+msgstr "Dim larwm"
+
+msgid "sync_va_norepeats"
+msgstr "Peidio ailadrodd"
+
+msgid "sync_va_notes"
+msgstr "Nodiadau calendr"
+
+msgid "sync_va_pcsuite"
+msgstr "PC Suite"
+
+msgid "sync_va_repeat"
+msgstr "Gwrthdrawiad ailadrodd"
+
+msgid "sync_va_repeated"
+msgstr "Ailadrodd "
+
+msgid "sync_va_to"
+msgstr "I"
+
+msgid "sync_va_use"
+msgstr "Defnyddio calendr '%s'"
+
+msgid "sync_va_web"
+msgstr "Gwe"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(dim dyfais wedi ei ddewis)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "Mae'r dyfais yma eisoes mewn defnydd ar gyfer sianel arall"
