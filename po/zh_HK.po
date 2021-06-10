@@ -1,0 +1,291 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-11-30 11:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "sync_ap_name"
+msgstr "轉移及同步"
+
+msgid "sync_bd_method_retrieve"
+msgstr "擷取"
+
+msgid "sync_bd_method_send"
+msgstr "傳送"
+
+msgid "sync_bd_method_sync"
+msgstr "同步"
+
+msgid "sync_bd_new"
+msgstr "新增"
+
+msgid "sync_bd_wizard_choose_device"
+msgstr "選擇裝置"
+
+msgid "sync_fi_calendar_used"
+msgstr "日曆"
+
+msgid "sync_fi_conduit_title"
+msgstr "%s"
+
+msgid "sync_fi_content"
+msgstr "通訊錄"
+
+msgid "sync_fi_device"
+msgstr "裝置"
+
+msgid "sync_fi_last_update"
+msgstr "最後更新"
+
+msgid "sync_fi_method"
+msgstr "方法"
+
+msgid "sync_fi_note"
+msgstr "備註"
+
+msgid "sync_fi_state_deleted"
+msgstr "刪除"
+
+msgid "sync_fi_state_edited"
+msgstr "編輯"
+
+msgid "sync_fi_time_unknown"
+msgstr "(未知時間)"
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr "擷取資料"
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr "傳送資料"
+
+msgid "sync_fi_wizard_method_sync"
+msgstr "同步資料"
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr "選擇日曆 '%s' 日曆資料"
+
+msgid "sync_ia_content_to_keep"
+msgstr "在兩台裝置上編輯訊息, 同時備份您的版本, 該過程後最新的版本將會被選擇。"
+
+msgid "sync_ia_wizard_calendartext"
+msgstr "裝置支援多個日曆, 可以建立新的日曆或利用現有的日曆."
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr "選擇日曆發送"
+
+msgid "sync_ia_wizard_complete"
+msgstr "您可以經由 '設定: 轉移及同步' 編輯同步設定, 點擊精靈外的區域以略過設定"
+
+msgid "sync_ia_wizard_contenttext"
+msgstr "選擇資料, 包括"
+
+msgid "sync_ia_wizard_intro"
+msgstr "同步精靈可以讓您設定與其他裝置同步的程序.\n\n注意:使用電腦端套件與電腦進行同步."
+
+msgid "sync_ia_wizard_methodtext"
+msgstr "傳送或同步處理？"
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr "點擊「完成」儲存設定。將建立頻道並立即開始進行數據傳輸。"
+
+msgid "sync_ib_setting_failed"
+msgstr "無法儲存設定"
+
+msgid "sync_ic_calendar_content"
+msgstr "該頻道只包括通訊錄.選擇一個日曆以新增"
+
+msgid "sync_ic_calendar_content_send"
+msgstr "該頻道只包括通訊錄.選擇日曆以傳送"
+
+msgid "sync_nc_error_retrieve"
+msgstr "不支援擷取, 換成同步?\n將從本裝置傳送數據?"
+
+msgid "sync_nc_error_send"
+msgstr "不支援傳送, 換成同步?\n將從其它裝置接收數據."
+
+msgid "sync_nc_import_web"
+msgstr "訂閱 '%s'? 新的日曆和頻道將被建立."
+
+msgid "sync_nc_remove_conduit"
+msgstr "刪除頻道 \"%s\"? 資料將不會被刪除."
+
+msgid "sync_ni_content_duplicate"
+msgstr "類似的頻道已經存在.\n無法重覆使用相同的配置."
+
+msgid "sync_ti_calendar_select"
+msgstr "轉移及同步: 選擇日曆"
+
+msgid "sync_ti_canceled"
+msgstr "取消"
+
+msgid "sync_ti_canceling"
+msgstr "停止"
+
+msgid "sync_ti_conflict_resolution"
+msgstr "解決衝突"
+
+msgid "sync_ti_progress_1"
+msgstr "開始"
+
+msgid "sync_ti_progress_10"
+msgstr "同步通訊錄"
+
+msgid "sync_ti_progress_11"
+msgstr "傳送日曆"
+
+msgid "sync_ti_progress_12"
+msgstr "接收日曆"
+
+msgid "sync_ti_progress_13"
+msgstr "同步日曆"
+
+msgid "sync_ti_progress_14"
+msgstr "傳送備註"
+
+msgid "sync_ti_progress_15"
+msgstr "接收備註"
+
+msgid "sync_ti_progress_16"
+msgstr "同步備註"
+
+msgid "sync_ti_progress_17"
+msgstr "完成中"
+
+msgid "sync_ti_progress_2"
+msgstr "正在連接"
+
+msgid "sync_ti_progress_3"
+msgstr "已連接"
+
+msgid "sync_ti_progress_4"
+msgstr "初始化"
+
+msgid "sync_ti_progress_5"
+msgstr "傳送中"
+
+msgid "sync_ti_progress_6"
+msgstr "接收中"
+
+msgid "sync_ti_progress_7"
+msgstr "正在同步"
+
+msgid "sync_ti_progress_8"
+msgstr "傳送通訊錄"
+
+msgid "sync_ti_progress_9"
+msgstr "接收通訊錄"
+
+msgid "sync_ti_sync_conflicts"
+msgstr "衝突"
+
+msgid "sync_ti_sync_error"
+msgstr "失敗"
+
+msgid "sync_ti_today"
+msgstr "今天"
+
+msgid "sync_ti_updating"
+msgstr "更新"
+
+msgid "sync_ti_wizard"
+msgstr "轉移及同步"
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr "藍牙"
+
+msgid "sync_ti_wizard_calendar"
+msgstr "日曆"
+
+msgid "sync_ti_wizard_complete"
+msgstr "完成"
+
+msgid "sync_ti_wizard_content"
+msgstr "內容"
+
+msgid "sync_ti_wizard_method"
+msgstr "方法"
+
+msgid "sync_va_alarm"
+msgstr "響鬧衝突"
+
+msgid "sync_va_alarm2"
+msgstr "響鬧設定"
+
+msgid "sync_va_bluetooth"
+msgstr "藍牙"
+
+msgid "sync_va_contacts"
+msgstr "通訊錄"
+
+msgid "sync_va_events_tasks"
+msgstr "日曆和待辦事項"
+
+msgid "sync_va_from"
+msgstr "從"
+
+msgid "sync_va_info_pcsuite"
+msgstr "設定可以通過電腦進行編輯"
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr "更新 %s"
+
+msgid "sync_va_method_receive"
+msgstr "擷取"
+
+msgid "sync_va_method_send"
+msgstr "傳送"
+
+msgid "sync_va_method_sync"
+msgstr "同步"
+
+msgid "sync_va_method_web"
+msgstr "更新"
+
+msgid "sync_va_newcalendar"
+msgstr "建立新日曆"
+
+msgid "sync_va_no_conduits"
+msgstr "(無頻道)"
+
+msgid "sync_va_noalarm"
+msgstr "沒有響鬧"
+
+msgid "sync_va_norepeats"
+msgstr "不重複"
+
+msgid "sync_va_notes"
+msgstr "日曆備忘"
+
+msgid "sync_va_pcsuite"
+msgstr "電腦端套件"
+
+msgid "sync_va_repeat"
+msgstr "重複衝突"
+
+msgid "sync_va_repeated"
+msgstr "重複"
+
+msgid "sync_va_to"
+msgstr "到"
+
+msgid "sync_va_use"
+msgstr "使用 '%s' 日曆"
+
+msgid "sync_va_web"
+msgstr "網絡"
+
+msgid "sync_va_wizard_device_none"
+msgstr "(沒有發現裝置)"
+
+msgid "sync_va_wizard_device_used"
+msgstr "此裝置已用於另一途徑"
