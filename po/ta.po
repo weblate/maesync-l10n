@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maesync 20090629141145\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2009.06.29 14:11+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "sync_ap_name"
+msgstr ""
+
+msgid "sync_bd_method_retrieve"
+msgstr ""
+
+msgid "sync_bd_method_send"
+msgstr ""
+
+msgid "sync_bd_method_sync"
+msgstr ""
+
+msgid "sync_bd_new"
+msgstr ""
+
+msgid "sync_bd_wizard_choose_device"
+msgstr ""
+
+msgid "sync_fi_calendar_used"
+msgstr ""
+
+msgid "sync_fi_conduit_title"
+msgstr ""
+
+msgid "sync_fi_content"
+msgstr ""
+
+msgid "sync_fi_device"
+msgstr ""
+
+msgid "sync_fi_last_update"
+msgstr ""
+
+msgid "sync_fi_method"
+msgstr ""
+
+msgid "sync_fi_note"
+msgstr ""
+
+msgid "sync_fi_state_deleted"
+msgstr ""
+
+msgid "sync_fi_state_edited"
+msgstr ""
+
+msgid "sync_fi_time_unknown"
+msgstr ""
+
+msgid "sync_fi_wizard_method_migrate_retrieve"
+msgstr ""
+
+msgid "sync_fi_wizard_method_migrate_send"
+msgstr ""
+
+msgid "sync_fi_wizard_method_sync"
+msgstr ""
+
+msgid "sync_ia_calendar_bluetooth"
+msgstr ""
+
+msgid "sync_ia_content_to_keep"
+msgstr ""
+
+msgid "sync_ia_wizard_calendartext"
+msgstr ""
+
+msgid "sync_ia_wizard_calendartext2"
+msgstr ""
+
+msgid "sync_ia_wizard_complete"
+msgstr ""
+
+msgid "sync_ia_wizard_contenttext"
+msgstr ""
+
+msgid "sync_ia_wizard_intro"
+msgstr ""
+
+msgid "sync_ia_wizard_methodtext"
+msgstr ""
+
+msgid "sync_ia_wizard_setup_complete"
+msgstr ""
+
+msgid "sync_ib_setting_failed"
+msgstr ""
+
+msgid "sync_ic_calendar_content"
+msgstr ""
+
+msgid "sync_ic_calendar_content_send"
+msgstr ""
+
+msgid "sync_nc_error_retrieve"
+msgstr ""
+
+msgid "sync_nc_error_send"
+msgstr ""
+
+msgid "sync_nc_import_web"
+msgstr ""
+
+msgid "sync_nc_remove_conduit"
+msgstr ""
+
+msgid "sync_ni_content_duplicate"
+msgstr ""
+
+msgid "sync_ti_calendar_select"
+msgstr ""
+
+msgid "sync_ti_canceled"
+msgstr ""
+
+msgid "sync_ti_canceling"
+msgstr ""
+
+msgid "sync_ti_conflict_resolution"
+msgstr ""
+
+msgid "sync_ti_progress_1"
+msgstr ""
+
+msgid "sync_ti_progress_10"
+msgstr ""
+
+msgid "sync_ti_progress_11"
+msgstr ""
+
+msgid "sync_ti_progress_12"
+msgstr ""
+
+msgid "sync_ti_progress_13"
+msgstr ""
+
+msgid "sync_ti_progress_14"
+msgstr ""
+
+msgid "sync_ti_progress_15"
+msgstr ""
+
+msgid "sync_ti_progress_16"
+msgstr ""
+
+msgid "sync_ti_progress_17"
+msgstr ""
+
+msgid "sync_ti_progress_2"
+msgstr ""
+
+msgid "sync_ti_progress_3"
+msgstr ""
+
+msgid "sync_ti_progress_4"
+msgstr ""
+
+msgid "sync_ti_progress_5"
+msgstr ""
+
+msgid "sync_ti_progress_6"
+msgstr ""
+
+msgid "sync_ti_progress_7"
+msgstr ""
+
+msgid "sync_ti_progress_8"
+msgstr ""
+
+msgid "sync_ti_progress_9"
+msgstr ""
+
+msgid "sync_ti_sync_conflicts"
+msgstr ""
+
+msgid "sync_ti_sync_error"
+msgstr ""
+
+msgid "sync_ti_today"
+msgstr ""
+
+msgid "sync_ti_updating"
+msgstr ""
+
+msgid "sync_ti_wizard"
+msgstr ""
+
+msgid "sync_ti_wizard_bluetooth"
+msgstr ""
+
+msgid "sync_ti_wizard_calendar"
+msgstr ""
+
+msgid "sync_ti_wizard_complete"
+msgstr ""
+
+msgid "sync_ti_wizard_content"
+msgstr ""
+
+msgid "sync_ti_wizard_method"
+msgstr ""
+
+msgid "sync_va_alarm"
+msgstr ""
+
+msgid "sync_va_alarm2"
+msgstr ""
+
+msgid "sync_va_bluetooth"
+msgstr ""
+
+msgid "sync_va_contacts"
+msgstr ""
+
+msgid "sync_va_events_tasks"
+msgstr ""
+
+msgid "sync_va_from"
+msgstr ""
+
+msgid "sync_va_info_pcsuite"
+msgstr ""
+
+msgid "sync_va_menu_plugin_conduit"
+msgstr ""
+
+msgid "sync_va_method_receive"
+msgstr ""
+
+msgid "sync_va_method_send"
+msgstr ""
+
+msgid "sync_va_method_sync"
+msgstr ""
+
+msgid "sync_va_method_web"
+msgstr ""
+
+msgid "sync_va_newcalendar"
+msgstr ""
+
+msgid "sync_va_no_conduits"
+msgstr ""
+
+msgid "sync_va_noalarm"
+msgstr ""
+
+msgid "sync_va_norepeats"
+msgstr ""
+
+msgid "sync_va_notes"
+msgstr ""
+
+msgid "sync_va_pcsuite"
+msgstr ""
+
+msgid "sync_va_repeat"
+msgstr ""
+
+msgid "sync_va_repeated"
+msgstr ""
+
+msgid "sync_va_to"
+msgstr ""
+
+msgid "sync_va_use"
+msgstr ""
+
+msgid "sync_va_web"
+msgstr ""
+
+msgid "sync_va_wizard_device_none"
+msgstr ""
+
+msgid "sync_va_wizard_device_used"
+msgstr ""
