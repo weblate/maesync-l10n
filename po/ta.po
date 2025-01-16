@@ -3,287 +3,313 @@ msgstr ""
 "Project-Id-Version: maesync 20090629141145\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.06.29 14:11+0300\n"
-"PO-Revision-Date: 2009.06.29 14:11+0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-17 14:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"maesync-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "sync_ap_name"
-msgstr ""
+msgstr "பரிமாற்றம் & ஒத்திசைவு"
 
 msgid "sync_bd_method_retrieve"
-msgstr ""
+msgstr "மீட்டெடுக்கவும்"
 
 msgid "sync_bd_method_send"
-msgstr ""
+msgstr "அனுப்பு"
 
 msgid "sync_bd_method_sync"
-msgstr ""
+msgstr "ஒத்திசைவு"
 
 msgid "sync_bd_new"
-msgstr ""
+msgstr "புதிய"
 
 msgid "sync_bd_wizard_choose_device"
-msgstr ""
+msgstr "சாதனத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "sync_fi_calendar_used"
-msgstr ""
+msgstr "நாட்காட்டி"
 
 msgid "sync_fi_conduit_title"
-msgstr ""
+msgstr "%s"
 
 msgid "sync_fi_content"
-msgstr ""
+msgstr "உள்ளடக்கம்"
 
 msgid "sync_fi_device"
-msgstr ""
+msgstr "சாதனம்"
 
 msgid "sync_fi_last_update"
-msgstr ""
+msgstr "கடைசி புதுப்பிப்பு"
 
 msgid "sync_fi_method"
-msgstr ""
+msgstr "முறை"
 
 msgid "sync_fi_note"
-msgstr ""
+msgstr "குறிப்பு"
 
 msgid "sync_fi_state_deleted"
-msgstr ""
+msgstr "நீக்கப்பட்டது"
 
 msgid "sync_fi_state_edited"
-msgstr ""
+msgstr "திருத்தப்பட்டது"
 
 msgid "sync_fi_time_unknown"
-msgstr ""
+msgstr "(நேரம் தெரியவில்லை)"
 
 msgid "sync_fi_wizard_method_migrate_retrieve"
-msgstr ""
+msgstr "தரவை மீட்டெடுக்கவும்"
 
 msgid "sync_fi_wizard_method_migrate_send"
-msgstr ""
+msgstr "தரவை அனுப்பவும்"
 
 msgid "sync_fi_wizard_method_sync"
-msgstr ""
+msgstr "தரவை ஒத்திசைக்கவும்"
 
 msgid "sync_ia_calendar_bluetooth"
-msgstr ""
+msgstr "'%s' காலண்டர் தரவுகளுக்கு காலெண்டரைத் தேர்ந்தெடுக்கவும்"
 
 msgid "sync_ia_content_to_keep"
 msgstr ""
+"இரண்டு சாதனங்களிலும் தகவல்களைத் திருத்தியது. எந்த பதிப்பை வைத்திருக்க வேண்டும் என்பதைத் "
+"தேர்வுசெய்க. புதிய பதிப்பு தேர்ந்தெடுக்கப்பட்டது."
 
 msgid "sync_ia_wizard_calendartext"
 msgstr ""
+"சாதனம் பல காலெண்டர்களை ஆதரிக்கிறது. புதிய காலெண்டரை உருவாக்க அல்லது ஏற்கனவே உள்ள "
+"காலெண்டரைப் பயன்படுத்தலாம்."
 
 msgid "sync_ia_wizard_calendartext2"
-msgstr ""
+msgstr "அனுப்ப காலெண்டரைத் தேர்ந்தெடுக்கவும்"
 
 msgid "sync_ia_wizard_complete"
 msgstr ""
+"இந்த உள்ளமைவை 'அமைப்புகள்: பரிமாற்றம் மற்றும் ஒத்திசைவு' வழியாக திருத்தலாம். "
+"மந்திரவாதிக்கு வெளியே தட்டுவதன் மூலம் அமைப்புகளை நிராகரிக்கவும்."
 
 msgid "sync_ia_wizard_contenttext"
-msgstr ""
+msgstr "சேர்க்க தரவைத் தேர்ந்தெடுக்கவும்"
 
 msgid "sync_ia_wizard_intro"
 msgstr ""
+"இந்த வழிகாட்டி மற்ற சாதனங்களுடன் பரிமாற்றம் அல்லது ஒத்திசைவு செயல்முறையை அமைக்க உங்களை "
+"அனுமதிக்கிறது.\n"
+"\n"
+" குறிப்பு: பிசி சூட் ஒத்திசைவுக்கு பிசி பயன்படுத்தவும்."
 
 msgid "sync_ia_wizard_methodtext"
-msgstr ""
+msgstr "பரிமாற்றமா அல்லது ஒத்திசைக்கவா?"
 
 msgid "sync_ia_wizard_setup_complete"
 msgstr ""
+"அமைப்புகளைச் சேமிக்க 'பூச்சு' என்பதைத் தட்டவும். ஒரு சேனல் உருவாக்கப்பட்டு தரவு உடனடியாக "
+"மாற்றத் தொடங்கும்."
 
 msgid "sync_ib_setting_failed"
-msgstr ""
+msgstr "அமைப்புகளைச் சேமிக்க முடியவில்லை"
 
 msgid "sync_ic_calendar_content"
 msgstr ""
+"இந்த சேனலில் தொடர்புகள் மட்டுமே உள்ளன. அதில் சேர்க்க ஒரு காலெண்டரைத் தேர்ந்தெடுக்கவும்."
 
 msgid "sync_ic_calendar_content_send"
 msgstr ""
+"இந்த சேனலில் தொடர்புகள் மட்டுமே உள்ளன. அனுப்ப காலெண்டரைத் தேர்ந்தெடுக்கவும்."
 
 msgid "sync_nc_error_retrieve"
 msgstr ""
+"ஆதரிக்கவில்லை. அதற்கு பதிலாக தரவை ஒத்திசைக்கவா?\n"
+"\n"
+" இந்த சாதனத்திலிருந்து தரவு அனுப்பப்படும்."
 
 msgid "sync_nc_error_send"
 msgstr ""
+"அனுப்பவில்லை. அதற்கு பதிலாக தரவை ஒத்திசைக்கவா?\n"
+"\n"
+" பிற சாதனங்களிலிருந்து தரவு சேர்க்கப்படும்."
 
 msgid "sync_nc_import_web"
-msgstr ""
+msgstr "'%s' க்கு குழுசேரவா? புதிய காலண்டர் மற்றும் சேனல் உருவாக்கப்படும்."
 
 msgid "sync_nc_remove_conduit"
 msgstr ""
+"சேனலை '%s' நீக்கவா?\n"
+" தரவு எதுவும் நீக்கப்படாது. "
 
 msgid "sync_ni_content_duplicate"
 msgstr ""
+"இதே போன்ற சேனல் ஏற்கனவே உள்ளது.\n"
+" அதே உள்ளமைவை இரண்டு முறை பயன்படுத்த முடியவில்லை."
 
 msgid "sync_ti_calendar_select"
-msgstr ""
+msgstr "பரிமாற்றம் மற்றும் ஒத்திசைவு: காலெண்டரைத் தேர்ந்தெடுக்கவும்"
 
 msgid "sync_ti_canceled"
-msgstr ""
+msgstr "ரத்து செய்யப்பட்டது"
 
 msgid "sync_ti_canceling"
-msgstr ""
+msgstr "நிறுத்துதல்"
 
 msgid "sync_ti_conflict_resolution"
-msgstr ""
+msgstr "மோதல் தீர்மானம்"
 
 msgid "sync_ti_progress_1"
-msgstr ""
+msgstr "தொடங்கியது"
 
 msgid "sync_ti_progress_10"
-msgstr ""
+msgstr "தொடர்புகளை ஒத்திசைத்தல்"
 
 msgid "sync_ti_progress_11"
-msgstr ""
+msgstr "காலண்டர் உள்ளீடுகளை அனுப்புகிறது"
 
 msgid "sync_ti_progress_12"
-msgstr ""
+msgstr "காலண்டர் உள்ளீடுகளைப் பெறுதல்"
 
 msgid "sync_ti_progress_13"
-msgstr ""
+msgstr "காலண்டர் உள்ளீடுகளை ஒத்திசைத்தல்"
 
 msgid "sync_ti_progress_14"
-msgstr ""
+msgstr "குறிப்புகளை அனுப்புகிறது"
 
 msgid "sync_ti_progress_15"
-msgstr ""
+msgstr "குறிப்புகளைப் பெறுதல்"
 
 msgid "sync_ti_progress_16"
-msgstr ""
+msgstr "குறிப்புகளை ஒத்திசைத்தல்"
 
 msgid "sync_ti_progress_17"
-msgstr ""
+msgstr "இறுதி"
 
 msgid "sync_ti_progress_2"
-msgstr ""
+msgstr "இணைத்தல்"
 
 msgid "sync_ti_progress_3"
-msgstr ""
+msgstr "இணைக்கப்பட்டுள்ளது"
 
 msgid "sync_ti_progress_4"
-msgstr ""
+msgstr "துவக்கம்"
 
 msgid "sync_ti_progress_5"
-msgstr ""
+msgstr "அனுப்புகிறது"
 
 msgid "sync_ti_progress_6"
-msgstr ""
+msgstr "பெறுதல்"
 
 msgid "sync_ti_progress_7"
-msgstr ""
+msgstr "ஒத்திசைவு"
 
 msgid "sync_ti_progress_8"
-msgstr ""
+msgstr "தொடர்புகளை அனுப்புகிறது"
 
 msgid "sync_ti_progress_9"
-msgstr ""
+msgstr "தொடர்புகளைப் பெறுதல்"
 
 msgid "sync_ti_sync_conflicts"
-msgstr ""
+msgstr "மோதல்கள்"
 
 msgid "sync_ti_sync_error"
-msgstr ""
+msgstr "தோல்வியுற்றது"
 
 msgid "sync_ti_today"
-msgstr ""
+msgstr "இன்று"
 
 msgid "sync_ti_updating"
-msgstr ""
+msgstr "புதுப்பித்தல்"
 
 msgid "sync_ti_wizard"
-msgstr ""
+msgstr "பரிமாற்றம் & ஒத்திசைவு"
 
 msgid "sync_ti_wizard_bluetooth"
-msgstr ""
+msgstr "ஊடலை"
 
 msgid "sync_ti_wizard_calendar"
-msgstr ""
+msgstr "நாட்காட்டி"
 
 msgid "sync_ti_wizard_complete"
-msgstr ""
+msgstr "முழுமையானது"
 
 msgid "sync_ti_wizard_content"
-msgstr ""
+msgstr "உள்ளடக்கம்"
 
 msgid "sync_ti_wizard_method"
-msgstr ""
+msgstr "முறை"
 
 msgid "sync_va_alarm"
-msgstr ""
+msgstr "அலாரம் மோதல்"
 
 msgid "sync_va_alarm2"
-msgstr ""
+msgstr "அலாரம் தொகுப்பு"
 
 msgid "sync_va_bluetooth"
-msgstr ""
+msgstr "ஊடலை"
 
 msgid "sync_va_contacts"
-msgstr ""
+msgstr "தொடர்புகள்"
 
 msgid "sync_va_events_tasks"
-msgstr ""
+msgstr "காலண்டர் நிகழ்வுகள் மற்றும் பணிகள்"
 
 msgid "sync_va_from"
-msgstr ""
+msgstr "இருந்து"
 
 msgid "sync_va_info_pcsuite"
-msgstr ""
+msgstr "அமைப்புகளை கணினி வழியாக திருத்தலாம்"
 
 msgid "sync_va_menu_plugin_conduit"
-msgstr ""
+msgstr "%s புதுப்பித்தல்"
 
 msgid "sync_va_method_receive"
-msgstr ""
+msgstr "மீட்டெடுக்கவும்"
 
 msgid "sync_va_method_send"
-msgstr ""
+msgstr "அனுப்பு"
 
 msgid "sync_va_method_sync"
-msgstr ""
+msgstr "ஒத்திசைவு"
 
 msgid "sync_va_method_web"
-msgstr ""
+msgstr "புதுப்பிப்பு"
 
 msgid "sync_va_newcalendar"
-msgstr ""
+msgstr "புதிய காலெண்டரை உருவாக்கவும்"
 
 msgid "sync_va_no_conduits"
-msgstr ""
+msgstr "(சேனல்கள் இல்லை)"
 
 msgid "sync_va_noalarm"
-msgstr ""
+msgstr "அலாரம் இல்லை"
 
 msgid "sync_va_norepeats"
-msgstr ""
+msgstr "மீண்டும் மீண்டும் இல்லை"
 
 msgid "sync_va_notes"
-msgstr ""
+msgstr "காலண்டர் குறிப்புகள்"
 
 msgid "sync_va_pcsuite"
-msgstr ""
+msgstr "பிசி தொகுப்பு"
 
 msgid "sync_va_repeat"
-msgstr ""
+msgstr "மோதலை மீண்டும் செய்யவும்"
 
 msgid "sync_va_repeated"
-msgstr ""
+msgstr "மீண்டும் மீண்டும்"
 
 msgid "sync_va_to"
-msgstr ""
+msgstr "பெறுநர்"
 
 msgid "sync_va_use"
-msgstr ""
+msgstr "‘%s’ காலெண்டரைப் பயன்படுத்தவும்"
 
 msgid "sync_va_web"
-msgstr ""
+msgstr "விரலிடைத் தோல்"
 
 msgid "sync_va_wizard_device_none"
-msgstr ""
+msgstr "(எந்த சாதனமும் தேர்ந்தெடுக்கப்படவில்லை)"
 
 msgid "sync_va_wizard_device_used"
-msgstr ""
+msgstr "இந்த சாதனம் ஏற்கனவே மற்றொரு சேனலுக்கு பயன்படுத்தப்படுகிறது"
